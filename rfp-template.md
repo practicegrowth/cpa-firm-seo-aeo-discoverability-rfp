@@ -1,4 +1,4 @@
-# CPA Firm SEO & Discoverability RFP Template
+# CPA Firm SEO & AEO Discoverability RFP Template
 
 > Customize this template by filling in bracketed sections `[like this]`. Remove all instructional text (in _italics_) before distributing to vendors.
 
@@ -18,7 +18,7 @@
 
 ### 1.2 What We're Trying to Solve
 
-_Discribe your current discoverability challenges. Examples:_
+_Describe your current discoverability challenges. Examples:_
 
 - [ ] Our website doesn't rank for key service terms in our market
 - [ ] We're invisible in local search / Google Map Pack results
@@ -31,22 +31,32 @@ _Discribe your current discoverability challenges. Examples:_
 - [ ] Our site has technical SEO issues (speed, mobile, crawlability)
 - [ ] We're losing clients to competitors who rank higher
 
-### 1.3 Market Context: The Zero-Click World
+### 1.3 WARNING: Traditional SEO Is Dead
 
-**Important context for vendors:** We recognize that the search landscape has fundamentally shifted. Traditional SEO (ranking for keywords and driving clicks to websites) is no longer sufficient. In 2026:
+**Read this before responding to this RFP.**
 
-- **Zero-click searches dominate** — Over 60% of Google searches result in zero clicks to websites. Users get answers directly from Google AI Overviews, featured snippets, and knowledge panels.
-- **AI-powered search is mainstream** — ChatGPT, Perplexity, Google AI Overviews, and other AI platforms are where professionals research solutions. If you're not cited in AI answers, you're invisible to a growing segment of buyers.
-- **Traditional SEO is necessary but not sufficient** — Ranking #1 organically matters less when AI answers appear above organic results. Vendors who only optimize for traditional rankings are stuck in 2020 thinking.
-- **AEO (Answer Engine Optimization) is critical** — The goal is no longer just "rankings" — it's "citations." We need to be cited in AI-generated answers, featured snippets, and knowledge panels.
+The search landscape has not evolved — it has been destroyed and rebuilt. If your agency's primary offering is "traditional SEO" (keyword research, on-page optimization, link building, ranking reports), **do not respond to this RFP.** You will waste our time and your money.
+
+Here's the reality of 2026:
+
+- **65% of Google searches result in ZERO clicks** — users get answers directly from AI Overviews, featured snippets, and knowledge panels. They never visit websites. Your "rank #1" promise is meaningless if no one clicks.
+- **Google AI Overviews appear in ~50% of searches** — but only 13.7% overlap with Google AI Mode citations. These are different systems requiring different optimization. If you don't know this, you're not qualified.
+- **ChatGPT has 200-700M weekly active users** — and as of July 2026, it integrates real-time Yelp data for local business recommendations. Your client's Yelp presence now matters more than their website for AI citations.
+- **Perplexity converts at 11x the rate** of traditional organic traffic — and performs real-time web search for every query, favoring Reddit and community sources.
+- **Featured snippets dropped from 65% to 17-38%** — semantic completeness, structured data, and E-E-A-T signals now matter more than ranking position.
+- **Conversational queries dominate** — users ask 10-11 word conversational prompts, not 2-3 word keywords. Your keyword research methodology is obsolete.
 
 **What this means for your proposal:**
-- Don't just tell us how you'll improve our rankings. Tell us how you'll get us cited in AI answers.
-- Don't just optimize for Google. Optimize for ChatGPT, Perplexity, and other AI platforms.
-- Don't just drive traffic. Drive citations, brand recognition, and authority in AI models.
-- If your approach is "traditional SEO plus some AI sprinkled on top," you're not the vendor we're looking for.
 
-We're looking for a partner who understands that **discoverability in 2026 means being the answer, not just a result.**
+- If your proposal leads with "we'll get you to page 1 of Google," you've already lost. We don't care about rankings. We care about **citations in AI-generated answers**.
+- If you can't explain the difference between Google AI Overviews and Google AI Mode, don't apply.
+- If you don't have a strategy for ChatGPT, Perplexity, and other AI platforms, you're not a modern discoverability agency. You're a relic.
+- If you don't understand platform-specific optimization (Yelp for ChatGPT, Reddit for Perplexity, structured data for Google), you're not qualified.
+- If your approach is "traditional SEO plus some AI sprinkled on top," you're exactly the type of vendor we're trying to avoid.
+
+**We're looking for a partner who understands that discoverability in 2026 means being the answer, not just a result.**
+
+If that terrifies you, this RFP is not for you.
 
 ### 1.4 Success Metrics
 
@@ -54,12 +64,14 @@ _What does success look like in 12 months?_
 
 | Metric | Current State | 12-Month Target |
 |--------|--------------|-----------------|
-| Organic traffic (monthly) | [number] | [target] |
-| Keyword rankings (top 10) | [number] | [target] |
+| AI search citations (ChatGPT, Perplexity, AI Overviews) | [number] | [target] |
+| AI citation conversion rate | [unknown] | [target] |
 | Google Business Profile views | [number] | [target] |
-| AI search citations | [unknown/0] | [target] |
-| Review count (Google) | [number] | [target] |
+| Review count (Google, Yelp) | [number] | [target] |
 | Organic leads/inquiries | [number] | [target] |
+| Brand mentions in AI responses | [unknown] | [target] |
+
+Note: "Keyword rankings" is not a success metric. If you think it is, you don't understand modern discoverability.
 
 ---
 
@@ -110,6 +122,7 @@ _Who are your ideal clients? This shapes content and local SEO strategy._
 |-------|--------|-------|
 | Website | [Live / needs redesign] | [URL, CMS, age of site] |
 | Google Business Profile | [Claimed / unclaimed / multiple] | [Number of locations] |
+| Yelp Profile | [Claimed / unclaimed] | [Review count, rating] |
 | Social media | [Platforms active] | [LinkedIn, etc.] |
 | Review platforms | [Google, Yelp, etc.] | [Current review count] |
 | Directory listings | [Known citations] | [Consistency unknown] |
@@ -162,6 +175,7 @@ _Vendors should propose solutions across the following categories. Indicate whic
 **Priority:** [High / Medium / Low / Not Needed]
 
 - Google Business Profile optimization (categories, services, posts, Q&A, photos)
+- **Yelp optimization** (critical for ChatGPT citations as of July 2026)
 - NAP (Name, Address, Phone) consistency audit across directories
 - Citation building and cleanup (industry-specific and general directories)
 - Local landing page creation (service-area pages, location-specific content)
@@ -182,14 +196,18 @@ _Vendors should propose solutions across the following categories. Indicate whic
 - E-E-A-T signal development (author bios, credentials, citations)
 - Content gap analysis vs. competitors
 - Content refresh strategy for existing pages
+- **AI-extractable content formatting** (concise answers, clear headings, scannable structure)
 
 ### 3.5 Answer Engine Optimization (AEO) / AI Search
 
 **Priority:** [High / Medium / Low / Not Needed]
 
+**This is the most critical section. If you can't deliver here, don't apply.**
+
 - Optimization for Google AI Overviews (formerly SGE)
-- Optimization for ChatGPT / OpenAI search
-- Optimization for Perplexity AI
+- Optimization for ChatGPT / OpenAI search (including Yelp integration strategy)
+- Optimization for Perplexity AI (including Reddit/community source strategy)
+- Optimization for Google AI Mode (different from AI Overviews — explain how)
 - Structured data strategy for AI citation
 - Featured snippet optimization (paragraph, list, table formats)
 - E-E-A-T signal optimization for AI extractability
@@ -199,6 +217,7 @@ _Vendors should propose solutions across the following categories. Indicate whic
 - Brand entity recognition in AI models
 - Voice search optimization (conversational queries, natural language)
 - Competitor AI citation analysis
+- **Platform-specific optimization** (Yelp for ChatGPT, Reddit for Perplexity, structured data for Google)
 
 ### 3.6 Review & Reputation Management
 
@@ -211,6 +230,7 @@ _Vendors should propose solutions across the following categories. Indicate whic
 - Negative review mitigation strategy
 - Review integration into website and local SEO
 - Multi-platform review strategy (Google, Yelp, industry-specific)
+- **Yelp-specific strategy** (critical for ChatGPT local citations)
 
 ### 3.7 Link Building & Authority
 
@@ -223,6 +243,7 @@ _Vendors should propose solutions across the following categories. Indicate whic
 - HARO / journalist response strategy
 - Industry directory and association links
 - Competitor backlink gap analysis
+- **Community presence strategy** (Reddit, forums — critical for Perplexity citations)
 
 ---
 
@@ -248,9 +269,11 @@ _How does the vendor optimize for AI-powered search? This is a critical differen
 Which AI search platforms does your agency optimize for?
 
 - [ ] Google AI Overviews
+- [ ] Google AI Mode (different from AI Overviews — explain your approach)
 - [ ] ChatGPT / OpenAI search
 - [ ] Perplexity AI
 - [ ] Microsoft Copilot / Bing AI
+- [ ] Claude / Anthropic
 - [ ] Other: [specify]
 
 ### 5.2 AEO Methodology
@@ -263,12 +286,14 @@ _Describe your approach to Answer Engine Optimization:_
 - What tools do you use for AI citation tracking?
 - How do you optimize E-E-A-T signals for AI models?
 - What is your approach to knowledge graph optimization?
+- How do you optimize for platform-specific differences (Yelp for ChatGPT, Reddit for Perplexity)?
 
 ### 5.3 Generative Engine Optimization (GEO)
 
 - How do you ensure our firm is cited in AI-generated answers about tax and accounting topics?
 - What is your strategy for brand entity recognition in LLMs?
 - How do you track whether AI models recommend our firm vs. competitors?
+- How do you stay current with AI platform changes (e.g., ChatGPT-Yelp integration)?
 
 ---
 
@@ -368,6 +393,7 @@ _Are there any costs not included in the pricing above?_
 - [ ] Demonstrated results with measurable case studies
 - [ ] Team credentials and certifications (Google, industry bodies)
 - [ ] References from similar-sized firms
+- [ ] **Proven AEO/AI search optimization capability** (non-negotiable)
 
 ### 9.2 Case Studies
 
@@ -394,6 +420,7 @@ _Provide 2-3 case studies of work with CPA firms or professional services:_
 | SEO strategist | [Name] | [Years] | [Certs] |
 | Content lead | [Name] | [Years] | [Certs] |
 | Technical SEO | [Name] | [Years] | [Certs] |
+| **AEO/AI specialist** | [Name] | [Years] | [Certs] |
 
 ### 9.4 Tools & Technology
 
@@ -406,7 +433,7 @@ _What tools do you use for:_
 | Analytics | [e.g., GA4, Looker Studio] |
 | Content optimization | [e.g., Surfer SEO, Clearscope] |
 | Citation management | [e.g., BrightLocal, Whitespark] |
-| AI citation tracking | [e.g., specific tools or methodology] |
+| **AI citation tracking** | [e.g., Profound, Otterly, Surfer SEO AI, custom methodologies] |
 | Reporting | [e.g., custom dashboards, AgencyAnalytics] |
 | Project management | [e.g., Asana, Monday, ClickUp] |
 
@@ -419,118 +446,194 @@ _Proposals will be evaluated on the following weighted criteria:_
 | Criteria | Weight | What We're Evaluating |
 |----------|--------|----------------------|
 | **CPA/Accounting Domain Expertise** | 25% | Understanding of tax services, CPA buyer journeys, professional services regulations, industry-specific keyword strategy |
-| **AEO / AI Search Capability** | 20% | Ability to optimize for AI-powered search (ChatGPT, Google AI Overviews, Perplexity), structured data for citation, AI citation tracking methodology |
+| **AEO / AI Search Capability** | 25% | Ability to optimize for AI-powered search (ChatGPT, Google AI Overviews, Perplexity), structured data for citation, AI citation tracking methodology, platform-specific optimization |
 | **Technical SEO Depth** | 15% | Site speed, Core Web Vitals, structured data implementation, crawlability, indexation, schema markup expertise |
 | **Content Quality & Strategy** | 15% | Content specificity to CPA firms (not generic), E-E-A-T demonstration, topic cluster methodology, editorial quality |
 | **Reporting Transparency** | 10% | Clear KPIs, transparent dashboards, regular reporting cadence, actionable insights, no vanity metrics |
-| **Pricing Model** | 10% | Total cost of ownership, value alignment with deliverables, no hidden fees, scalability, contract flexibility |
+| **Pricing Model** | 5% | Total cost of ownership, value alignment with deliverables, no hidden fees, scalability, contract flexibility |
 | **References & Track Record** | 5% | Measurable results from similar CPA firms, quality of references, longevity of client relationships |
+
+**Note: AEO/AI Search Capability has been increased to 25% (equal to CPA expertise). If you can't deliver here, you will not win this contract.**
 
 _See [`evaluation-scorecard.md`](evaluation-scorecard.md) for the detailed scoring rubric._
 
 ---
 
-## 10.5 Common Vendor Mistakes & Red Flags
+## 11. AI Crawling Controls & Machine-Readable Files
 
-_We've compiled this list based on feedback from CPA firms who've had bad experiences with SEO vendors. Use this to evaluate vendor proposals and presentations._
+_How does the vendor manage AI bot access and machine-readable documentation? These are emerging standards for AI discoverability in 2026._
 
-### 10.5.1 Red Flags in Proposals 🚩
+### 11.1 AI Crawling Controls
 
-**Disqualify vendors who:**
+**Should the vendor configure robots.txt directives for AI crawlers?**
 
-- ❌ **Guarantee #1 rankings** — No one can guarantee specific rankings. Google's algorithm is proprietary and constantly changing. Anyone who guarantees #1 is either lying or using black-hat tactics that will get you penalized.
+- [ ] GPTBot (OpenAI/ChatGPT) — Allow or block?
+- [ ] ClaudeBot (Anthropic) — Allow or block?
+- [ ] Google-Extended (Gemini) — Allow or block?
+- [ ] PerplexityBot — Allow or block?
+- [ ] CCBot (Common Crawl) — Allow or block?
+- [ ] Bytespider (TikTok/ByteDance) — Allow or block?
 
-- ❌ **Can't explain AEO or AI search optimization** — It's 2026. If they can't articulate how they optimize for Google AI Overviews, ChatGPT, Perplexity, and other AI platforms, they're behind the curve. "We'll add AI later" is not acceptable.
+**Strategic question:** Does the vendor understand the tradeoff between blocking AI crawlers (protecting content) and allowing them (enabling AI citations)? For a CPA firm seeking AI discoverability, the default should be to **allow** AI crawlers — unless there's a specific reason to block.
 
-- ❌ **Suggests PBNs or link schemes** — Private Blog Networks, paid links without nofollow, link exchanges, and other black-hat tactics violate Google guidelines and can result in penalties. Walk away immediately.
+### 11.2 llms.txt & llms-full.txt
 
-- ❌ **Generic, templated proposals** — If the proposal reads like it was sent to 100 other firms with just the firm name changed, they don't understand your business. Look for specificity: your services, your market, your challenges.
+**Does the vendor implement llms.txt?**
 
-- ❌ **No CPA/accounting firm experience** — Professional services marketing is different from e-commerce or SaaS. If they can't show case studies from CPA firms, they don't understand the buyer journey, regulations, or seasonal patterns.
+`llms.txt` is an emerging standard (inspired by llms.txt) that provides a machine-readable summary of your website's content specifically designed for AI models. Think of it as a sitemap optimized for LLMs rather than search engines.
 
-- ❌ **Vague about pricing or hidden fees** — "It depends" is not a pricing model. If they can't give you clear, transparent pricing upfront, they'll nickel-and-dime you later. Watch for "additional costs" for tools, content, or reporting.
+- [ ] Does the vendor create and maintain an `llms.txt` file at the root of the website?
+- [ ] Does the file include firm overview, services, team credentials, and key differentiators?
+- [ ] Is there a corresponding `llms-full.txt` with expanded content for deeper AI understanding?
+- [ ] Does the vendor update these files when content changes?
+- [ ] Can they show examples of llms.txt files they've created for other clients?
 
-- ❌ **Long-term contracts with auto-renewal** — 12-month minimums with auto-renewal and difficult termination clauses are red flags. Good vendors earn your business monthly. Lock-in suggests they know they can't deliver.
+**Example llms.txt structure:**
 
-- ❌ **Focuses only on rankings or traffic** — Rankings and traffic are vanity metrics. What matters is leads, conversions, and revenue. If they can't connect SEO to business outcomes, they're not strategic partners.
+```
+# Smith & Associates CPA
 
-- ❌ **Can't provide references from similar firms** — "Trust us" is not a reference. Ask for 2-3 references from CPA firms they've worked with. If they can't provide them, they don't have relevant experience.
+> Dallas-based CPA firm specializing in small business tax planning, 
+> entity selection, and year-round tax optimization for S-Corps, 
+> LLCs, and partnerships.
 
-- ❌ **Suggests AI-generated content without human review** — AI can help with ideation and drafting, but CPA content must be reviewed by qualified professionals for accuracy. Publishing AI-generated content without review is a liability risk.
+## Services
+- [Tax Planning](https://example.com/tax-planning): Year-round tax 
+  optimization for businesses $1M-$50M revenue
+- [Entity Selection](https://example.com/entity-selection): S-Corp, 
+  LLC, and partnership formation guidance
+- [Bookkeeping](https://example.com/bookkeeping): Monthly bookkeeping 
+  and financial reporting for small businesses
 
-- ❌ **Doesn't understand professional services regulations** — State boards have rules about advertising, solicitation, and review generation. If they suggest tactics that violate these rules, they're a liability.
+## Team
+- Jane Smith, CPA, MST — 15 years experience, former Big 4
+- John Doe, CPA — 10 years experience, specializes in real estate
 
-- ❌ **Can't explain their reporting methodology** — If they can't show you what they'll report, how often, and how you'll access it, they're not transparent. You should have dashboard access, not just PDF reports.
+## Key Differentiators
+- Average 23% tax savings for S-Corp clients
+- 200+ Dallas small business clients
+- Year-round planning, not just April filing
+```
 
-### 10.5.2 Common Vendor Mistakes
+### 11.3 AI-Optimized Sitemap
 
-**Mistakes vendors make that hurt CPA firms:**
-
-1. **Keyword stuffing service pages** — Stuffing "CPA Dallas," "tax preparer Dallas," "accountant Dallas" into every paragraph doesn't work. It creates poor user experience and can trigger spam filters. Focus on natural, helpful content.
-
-2. **Generic content that doesn't demonstrate expertise** — "10 Tax Tips for Small Businesses" is generic. "How Section 199A QBI Deduction Applies to S-Corps in Texas" demonstrates expertise. The latter gets cited in AI answers; the former doesn't.
-
-3. **Ignoring local SEO for multi-location firms** — Creating duplicate location pages with just the city name changed doesn't work. Each location page needs unique, valuable content specific to that market.
-
-4. **Neglecting structured data and schema markup** — Without proper schema (Organization, LocalBusiness, Person, Article, FAQ), AI models can't understand your content. This is table stakes in 2026.
-
-5. **No author attribution or E-E-A-T signals** — Publishing content without author bios, credentials, and citations signals low quality to both Google and AI models. Every piece of content should have a named, credentialed author.
-
-6. **Focusing on quantity over quality** — Publishing 20 generic blog posts per month is worse than publishing 4 deeply researched, authoritative pieces. Quality content gets cited; quantity content gets ignored.
-
-7. **Not optimizing for AI extractability** — Content with long paragraphs, no clear headings, and no concise answers won't be extracted by AI models. Structure content for AI: clear headings, concise answers in first 1-2 paragraphs, scannable format.
-
-8. **Ignoring review generation** — Reviews are critical for local SEO and trust signals. If the vendor doesn't have a strategy for ethical review solicitation, you're leaving money on the table.
-
-9. **No AI citation tracking** — If they can't track whether you're being cited in AI answers, they're flying blind. AI citation tracking is as important as traditional rank tracking in 2026.
-
-10. **Treating AI search as an afterthought** — "We'll add AI optimization later" is a red flag. AI search is not an add-on; it's core to discoverability. Vendors who treat it as secondary are stuck in 2020 thinking.
-
-### 10.5.3 Questions to Expose Weak Vendors
-
-**Ask these questions during presentations to separate strong vendors from weak ones:**
-
-1. **"Show me a client you've helped appear in Google AI Overviews or AI chat responses."**
-   - Strong vendor: Shows specific examples with metrics
-   - Weak vendor: "We're still developing our AI capabilities"
-
-2. **"What structured data types do you implement for CPA firms? Show me a JSON-LD example."**
-   - Strong vendor: Names 8-10 schema types, shows code examples
-   - Weak vendor: "We add schema" (vague, no specifics)
-
-3. **"How do you measure AI search visibility? What tools do you use?"**
-   - Strong vendor: Names specific tools (Profound, Otterly, custom methodologies)
-   - Weak vendor: "We track rankings" (doesn't understand AI citations)
-
-4. **"Walk me through your content review process. How do you ensure accuracy?"**
-   - Strong vendor: Content writer → CPA review → fact-check → publish
-   - Weak vendor: "We use AI to generate content" (no human review)
-
-5. **"What's your approach to E-E-A-T? How do you demonstrate expertise in content?"**
-   - Strong vendor: Author bios, credentials, citations, about pages, editorial standards
-   - Weak vendor: "We write good content" (vague, no specifics)
-
-6. **"How do you handle state board advertising restrictions for CPA firms?"**
-   - Strong vendor: Understands restrictions, has compliant review solicitation methods
-   - Weak vendor: "What restrictions?" (doesn't understand professional services)
-
-7. **"What happens if we're not satisfied with results? Can we terminate early?"**
-   - Strong vendor: 30-day termination clause, no penalties, transition support
-   - Weak vendor: "You won't want to leave" (deflects, suggests lock-in)
+- [ ] Does the vendor create an XML sitemap optimized for AI crawlers?
+- [ ] Are priority pages clearly marked for AI discovery?
+- [ ] Is the sitemap submitted to AI search platforms where possible?
 
 ---
 
-## 11. Submission Instructions & Deadline
+## 12. Why Most SEO Proposals Will Fail
 
-### 11.1 Submission Requirements
+_This section is not optional reading. If you skip this, your proposal will be rejected._
+
+### 12.1 The Traditional SEO Agency Death Spiral
+
+Most SEO agencies are stuck in a death spiral. They're selling 2019 services in a 2026 world. Here's what their proposals look like:
+
+**Red Flag #1: "We'll get you to page 1 of Google"**
+- **Reality:** 65% of searches result in zero clicks. Page 1 rankings are meaningless if no one clicks.
+- **What we want:** "We'll get you cited in AI-generated answers across ChatGPT, Perplexity, and Google AI Overviews."
+
+**Red Flag #2: "We'll optimize your meta tags and build backlinks"**
+- **Reality:** Meta tags are irrelevant for AI search. Backlinks matter less than structured data and E-E-A-T signals for AI citations.
+- **What we want:** "We'll implement comprehensive structured data, optimize your content for AI extractability, and build brand authority in AI models."
+
+**Red Flag #3: "We'll write 4 blog posts per month"**
+- **Reality:** Generic blog content doesn't get cited in AI answers. AI models prefer authoritative, well-structured, E-E-A-T-optimized content.
+- **What we want:** "We'll create AI-extractable content with clear headings, concise answers, and comprehensive E-E-A-T signals."
+
+**Red Flag #4: "We'll track your keyword rankings"**
+- **Reality:** Keyword rankings are vanity metrics. What matters is AI citations, brand mentions, and conversion rates.
+- **What we want:** "We'll track your AI citations across ChatGPT, Perplexity, and Google AI Overviews, plus conversion rates from AI-referred traffic."
+
+**Red Flag #5: "We've been doing SEO for 10 years"**
+- **Reality:** The SEO landscape has been destroyed and rebuilt. 10 years of experience in traditional SEO is now a liability, not an asset.
+- **What we want:** "We've pivoted to AEO and AI search optimization in the last 2 years, and here's proof."
+
+### 12.2 The AI-Washing Problem
+
+Many agencies are now claiming to offer "AI optimization" but they're just AI-washing their traditional SEO services. Here's how to spot them:
+
+**AI-Washing Red Flag #1: "We offer AI optimization as an add-on"**
+- **Reality:** AI optimization is not an add-on. It's the core of modern discoverability. If it's an add-on, you don't understand it.
+- **What we want:** AI optimization is central to your methodology, not an afterthought.
+
+**AI-Washing Red Flag #2: "We'll optimize for AI" (but can't explain how)**
+- **Reality:** If you can't explain the difference between Google AI Overviews and Google AI Mode, you're not optimizing for AI. You're just saying the word.
+- **What we want:** Specific, detailed explanation of platform-specific optimization strategies.
+
+**AI-Washing Red Flag #3: "We use AI to write content"**
+- **Reality:** AI-generated content without human review is a liability risk for CPA firms. AI models also prefer human-authored, E-E-A-T-optimized content.
+- **What we want:** AI-assisted content creation with CPA review, fact-checking, and E-E-A-T optimization.
+
+**AI-Washing Red Flag #4: "We track AI citations" (but can't name tools)**
+- **Reality:** If you can't name specific AI citation tracking tools (Profound, Otterly, Surfer SEO AI), you're not tracking AI citations. You're lying.
+- **What we want:** Specific tools and methodologies for AI citation tracking.
+
+**AI-Washing Red Flag #5: "We're staying up-to-date with AI trends"**
+- **Reality:** If you don't know about the July 2026 ChatGPT-Yelp integration, you're not up-to-date. You're months behind.
+- **What we want:** Demonstrated knowledge of recent AI platform changes and their implications for CPA firms.
+
+### 12.3 Questions That Will Expose Weak Vendors
+
+**Ask these questions during presentations. If the vendor can't answer them, reject the proposal.**
+
+1. **"What's the difference between Google AI Overviews and Google AI Mode?"**
+   - **Correct answer:** AI Overviews appear in ~50% of searches and favor structured data, E-E-A-T signals. AI Mode is conversational and has only 13.7% overlap with AI Overviews. Different optimization strategies required.
+   - **Wrong answer:** "They're basically the same thing" or "We optimize for both the same way."
+
+2. **"How does the July 2026 ChatGPT-Yelp integration affect local CPA firms?"**
+   - **Correct answer:** ChatGPT now uses real-time Yelp data for local business recommendations. CPA firms must optimize their Yelp presence (reviews, categories, photos) specifically for AI citations, not just Google Business Profile.
+   - **Wrong answer:** "We're not aware of that integration" or "Yelp doesn't matter for accountants."
+
+3. **"Why does Perplexity favor Reddit and community sources?"**
+   - **Correct answer:** Perplexity performs real-time web search and favors conversational, community-generated content that matches how users phrase questions. Reddit threads naturally mirror conversational query language.
+   - **Wrong answer:** "Reddit doesn't matter for professional services" or "We don't optimize for Perplexity specifically."
+
+4. **"What's your strategy for AI citation tracking?"**
+   - **Correct answer:** Names specific tools (Profound, Otterly, Surfer SEO AI) and explains platform-specific tracking methodologies.
+   - **Wrong answer:** "We track rankings" or "We're still figuring out AI tracking."
+
+5. **"How do you optimize for AI extractability?"**
+   - **Correct answer:** Clear headings, concise 40-60 word answers in first 1-2 paragraphs, scannable format (bullet points, tables, numbered lists), comprehensive E-E-A-T signals.
+   - **Wrong answer:** "We write good content" or "We optimize for keywords."
+
+6. **"What's your approach to E-E-A-T for AI models?"**
+   - **Correct answer:** Detailed author bios with credentials, CPA license numbers, professional association memberships, citations to authoritative sources (IRS, state boards), comprehensive about pages.
+   - **Wrong answer:** "E-E-A-T is just for Google" or "We don't focus on E-E-A-T."
+
+7. **"How do you stay current with AI platform changes?"**
+   - **Correct answer:** Specific examples of recent changes (ChatGPT-Yelp integration, Google AI Mode launch, Perplexity conversion rates) and how they've adjusted client strategies.
+   - **Wrong answer:** "We read industry blogs" or "We attend conferences."
+
+### 12.4 The Bottom Line
+
+**If your proposal reads like it's from 2022, it will be rejected.**
+
+**If you can't demonstrate deep knowledge of AI search optimization, it will be rejected.**
+
+**If you can't explain platform-specific differences, it will be rejected.**
+
+**If you can't provide specific examples of AI citation success, it will be rejected.**
+
+We're not looking for a traditional SEO agency. We're looking for a modern discoverability partner who understands that the game has changed fundamentally.
+
+If that's not you, don't waste our time.
+
+---
+
+## 13. Submission Instructions & Deadline
+
+### 13.1 Submission Requirements
 
 - Submit proposals in PDF format to [email address]
-- Subject line: "SEO & Discoverability RFP Response — [Your Agency Name]"
+- Subject line: "SEO & AEO Discoverability RFP Response — [Your Agency Name]"
 - Deadline: [Date] at [Time] [Timezone]
 - Include all sections requested in this RFP
 - Maximum proposal length: [X] pages (excluding appendices)
 
-### 11.2 Proposal Format
+### 13.2 Proposal Format
 
 1. Executive summary (1 page)
 2. Agency overview and qualifications (Section 9)
@@ -541,7 +644,7 @@ _We've compiled this list based on feedback from CPA firms who've had bad experi
 7. Compliance confirmation (Section 6)
 8. References (minimum 2 from CPA/accounting firms)
 
-### 11.3 Selection Process
+### 13.3 Selection Process
 
 | Step | Date | Description |
 |------|------|-------------|
@@ -552,10 +655,10 @@ _We've compiled this list based on feedback from CPA firms who've had bad experi
 | Final selection | [Date] | Decision communicated to all vendors |
 | Contract execution | [Date] | Agreement signed, engagement begins |
 
-### 11.4 Questions
+### 13.4 Questions
 
 _All questions about this RFP must be submitted in writing to [email] by [date]. Responses will be shared with all prospective vendors._
 
 ---
 
-*This RFP template is provided by [PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp) as a free resource for CPA firms. PracticeGrowth is not a vendor responding to this RFP — this is a neutral template for your use.*
+*This RFP template is provided by [PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-aeo-discoverability-rfp) as a free resource for CPA firms. PracticeGrowth is not a vendor responding to this RFP — this is a neutral template for your use.*

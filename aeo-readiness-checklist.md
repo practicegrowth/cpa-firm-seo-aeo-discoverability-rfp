@@ -23,6 +23,7 @@ Mark each item: ✅ (demonstrated capability), ⚠️ (claimed but no evidence),
 - [ ] Can they show examples of clients appearing in AI Overviews?
 - [ ] Do they track AI Overview appearances as a KPI?
 - [ ] What is their content formatting strategy for AI extractability?
+- [ ] Do they optimize for Microsoft Copilot (formerly Bing Chat) citations?
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
@@ -92,7 +93,7 @@ For a query like "What is the QBI deduction?", the content should be structured 
 ```markdown
 ## What is the Qualified Business Income (QBI) Deduction?
 
-The Qualified Business Income (QBI) deduction, also known as Section 199A deduction, allows eligible self-employed individuals and small-business owners to deduct up to 20% of their qualified business income on their tax returns. This deduction is available for tax years 2018 through 2025 and can significantly reduce tax liability for pass-through entities.
+The Qualified Business Income (QBI) deduction, also known as Section 199A deduction, allows eligible self-employed individuals and small-business owners to deduct up to 20% of their qualified business income on their tax returns. This deduction is available for tax years 2018 through 2025 (subject to congressional renewal) and can significantly reduce tax liability for pass-through entities.
 
 ### Who Qualifies for QBI?
 - Sole proprietors
@@ -103,6 +104,8 @@ The Qualified Business Income (QBI) deduction, also known as Section 199A deduct
 ```
 
 **Why this works:** Clear H2 heading matching the query, concise 40-60 word answer in first paragraph, followed by supporting details in scannable format.
+
+_Note: Tax law changes frequently. Always verify current year applicability and consult IRS guidance._
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
@@ -142,16 +145,27 @@ The bio page should include: professional photo, full credentials, license numbe
 
 ## 5. AI Citation Tracking & Measurement
 
-_How does the vendor measure AI search visibility?_
+_How does the vendor measure AI search visibility? This is critical because different AI platforms source information differently:_
+
+- **Google AI Overviews**: Appears in ~50% of searches, only 13.7% overlap with AI Mode citations
+- **ChatGPT**: 200-700M weekly users, now integrates real-time Yelp data (July 2026 partnership)
+- **Perplexity**: Real-time web search for every query, favors Reddit/community sources, 11x conversion rate
+- **Google AI Mode**: Different citation sources than AI Overviews (86.3% non-overlap)
+
+**Key Questions:**
 
 - [ ] Do they have tools to track when your firm is cited in AI-generated answers?
-- [ ] Can they track citations across multiple AI platforms (Google AI Overviews, ChatGPT, Perplexity)?
+- [ ] Can they track citations across multiple AI platforms (Google AI Overviews, ChatGPT, Perplexity, AI Mode)?
 - [ ] Do they provide baseline measurement of current AI visibility?
 - [ ] What is their reporting cadence for AI citation metrics?
 - [ ] Can they show trend data over time (are citations increasing)?
 - [ ] Do they track competitor AI citations for comparison?
+- [ ] Do they understand platform-specific optimization (Yelp for ChatGPT, Reddit for Perplexity, structured data for Google)?
+- [ ] Can they explain the difference between Google AI Overviews and AI Mode citations?
 
-**Specific Tools Mentioned:** [List any tools the vendor names — e.g., Profound, Otterly, custom methodologies]
+**Specific Tools Mentioned:** [List any tools the vendor names — e.g., Profound, Otterly, Surfer SEO AI, custom methodologies]
+
+**Red Flag:** If they say "we track AI citations" but can't explain platform-specific differences or the July 2026 ChatGPT-Yelp integration, they're not current.
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
@@ -175,7 +189,7 @@ Voice queries are conversational and question-based. Content should be structure
 ```markdown
 ## Small Business CPA in Dallas, TX
 
-Looking for a CPA who specializes in small business taxes in Dallas? Smith & Associates has helped over 200 Dallas small businesses reduce their tax liability by an average of 23%.
+Looking for a CPA who specializes in small business taxes in Dallas? Smith & Associates has helped over 200 Dallas small businesses reduce their tax liability.
 
 ### Our Small Business Tax Services
 - Entity selection (LLC, S-Corp, C-Corp)
@@ -189,6 +203,8 @@ Looking for a CPA who specializes in small business taxes in Dallas? Smith & Ass
 ```
 
 **Why this works:** Direct answer to "CPA near me," includes location modifiers, conversational tone, clear service list, and prominent contact info for voice assistants to read.
+
+_Illustrative example — replace with actual client results and metrics._
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
@@ -290,4 +306,4 @@ Strong vendors will demonstrate:
 
 ---
 
-*Checklist developed by [PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp) for evaluating AI search optimization vendors.*
+*Checklist developed by [PracticeGrowth](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp) for evaluating AI search optimization vendors.*

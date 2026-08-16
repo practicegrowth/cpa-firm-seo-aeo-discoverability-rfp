@@ -1,8 +1,27 @@
-# CPA Firm SEO & Discoverability RFP Template
+# CPA Firm SEO & AEO Discoverability RFP Template
 
-> **A complete RFP framework for CPA firms evaluating SEO, local search, and AI search optimization vendors.**
+> **A complete RFP framework for CPA firms evaluating SEO, AEO (Answer Engine Optimization), local search, and AI search optimization vendors.**
+
+**Repository renamed from `cpa-firm-seo-discoverability-rfp` to `cpa-firm-seo-aeo-discoverability-rfp` to reflect the critical importance of AEO in modern discoverability.**
+
+**Note:** If you're viewing this from the old URL, GitHub will automatically redirect you here.
 
 Published: August 2026 | Last Reviewed: August 2026
+
+---
+
+## The 2026 AI Search Reality
+
+Before using this template, understand the landscape you're operating in:
+
+- **65% of Google searches end with zero clicks** — users get answers directly from AI Overviews, featured snippets, and knowledge panels
+- **Google AI Overviews appear in ~50% of searches** — but only 13.7% overlap with Google AI Mode citations (different optimization required)
+- **ChatGPT has 200-700M weekly active users** — and now integrates real-time Yelp data for local business recommendations (July 2026)
+- **Perplexity converts at 11x the rate** of traditional organic traffic — and performs real-time web search for every query
+- **Featured snippets dropped from 65% to 17-38%** — semantic completeness, structured data, and E-E-A-T signals now matter more than ranking position
+- **Conversational queries dominate** — 10-11 word prompts vs 2-3 word keywords
+
+**What this means:** Traditional SEO is necessary but not sufficient. Your vendor must optimize for **citations in AI-generated answers**, not just rankings on a search results page.
 
 ---
 
@@ -25,7 +44,7 @@ Use it to solicit proposals, compare vendors objectively, and select a partner w
 
 | File | Purpose |
 |------|---------|
-| [`rfp-template.md`](rfp-template.md) | Full RFP template with 11 sections — ready to customize and send to vendors. Includes zero-click world context, red flags, and vendor mistakes to watch for. |
+| [`rfp-template.md`](rfp-template.md) | Full RFP template with 13 sections — ready to customize and send to vendors. Includes zero-click world context, AI crawling controls, and vendor mistakes to watch for. |
 | [`evaluation-scorecard.md`](evaluation-scorecard.md) | Weighted scoring matrix (1–5 scale) for objective vendor comparison |
 | [`aeo-readiness-checklist.md`](aeo-readiness-checklist.md) | Checklist for evaluating a vendor's AI search optimization capability. Includes actionable examples (JSON-LD, featured snippets, E-E-A-T, voice search). |
 | [`local-seo-scorecard.md`](local-seo-scorecard.md) | Local search optimization evaluation criteria |
@@ -57,9 +76,9 @@ This template is provided for informational purposes only. It does not constitut
 
 ## About PracticeGrowth
 
-[PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp) helps CPA firms and accounting practices grow through high-performance websites, SEO, and AI-powered client acquisition systems. We build the digital infrastructure that turns your expertise into discoverable, convertible online presence.
+[PracticeGrowth](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp) helps CPA firms and accounting practices grow through high-performance websites, SEO, and AI-powered client acquisition systems. We build the digital infrastructure that turns your expertise into discoverable, convertible online presence.
 
-**Need help building your firm's discoverability strategy?** [Talk to PracticeGrowth →](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp)
+**Need help building your firm's discoverability strategy?** [Talk to PracticeGrowth →](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp)
 
 ---
 
@@ -78,4 +97,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 
-*Published August 2026 · PracticeGrowth · [PracticeGrowth.tech](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp)*
+*Published August 2026 · PracticeGrowth · [PracticeGrowth.tech](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp)*

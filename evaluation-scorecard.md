@@ -27,13 +27,12 @@
 | Awareness of professional services regulations (state board rules, advertising restrictions) | | |
 | Industry-specific keyword strategy (not generic "SEO for small business") | | |
 | Experience with accounting firm client acquisition challenges | | |
-| **Subtotal** | **/25** | Multiply subtotal by 5 |
 
-**Score: ___ / 25**
+**Score: ___ / 25** (Sum of 5 criteria × 5 points each)
 
 ---
 
-### 2. AEO / AI Search Capability (Weight: 20%)
+### 2. AEO / AI Search Capability (Weight: 25%)
 
 | Criterion | Score (1-5) | Notes |
 |-----------|-------------|-------|
@@ -43,9 +42,10 @@
 | AI citation tracking and measurement tools/methods | | |
 | E-E-A-T signal optimization for AI models (author bios, credentials, citations) | | |
 | Knowledge graph and brand entity recognition strategy | | |
-| **Subtotal** | **/30** | Multiply subtotal by 3.33 |
 
-**Score: ___ / 20**
+**Score: ___ / 30** (Sum of 6 criteria × 5 points each)
+
+**Weighted Score: ___ / 25** (Multiply subtotal by 0.833)
 
 ---
 
@@ -59,9 +59,10 @@
 | Mobile-first optimization strategy | | |
 | JavaScript rendering and crawl budget management | | |
 | Technical audit depth (log file analysis, render testing) | | |
-| **Subtotal** | **/30** | Multiply subtotal by 2.5 |
 
-**Score: ___ / 15**
+**Score: ___ / 30** (Sum of 6 criteria × 5 points each)
+
+**Weighted Score: ___ / 15** (Multiply subtotal by 0.5)
 
 ---
 
@@ -75,9 +76,10 @@
 | Editorial calendar approach (frequency, topic selection, seasonal planning) | | |
 | Content quality samples (writing depth, accuracy, professionalism) | | |
 | Tax season content strategy | | |
-| **Subtotal** | **/30** | Multiply subtotal by 2.5 |
 
-**Score: ___ / 15**
+**Score: ___ / 30** (Sum of 6 criteria × 5 points each)
+
+**Weighted Score: ___ / 15** (Multiply subtotal by 0.5)
 
 ---
 
@@ -91,13 +93,14 @@
 | Actionable insights (not just data dumps) | | |
 | AI search citation reporting (if applicable) | | |
 | Avoidance of vanity metrics (focus on leads, conversions, revenue) | | |
-| **Subtotal** | **/30** | Multiply subtotal by 1.67 |
 
-**Score: ___ / 10**
+**Score: ___ / 30** (Sum of 6 criteria × 5 points each)
+
+**Weighted Score: ___ / 10** (Multiply subtotal by 0.333)
 
 ---
 
-### 6. Pricing Model (Weight: 10%)
+### 6. Pricing Model (Weight: 5%)
 
 | Criterion | Score (1-5) | Notes |
 |-----------|-------------|-------|
@@ -107,9 +110,10 @@
 | Scalability (can grow with firm without renegotiation) | | |
 | Content production costs transparent (per-piece pricing) | | |
 | Tool costs included or clearly separated | | |
-| **Subtotal** | **/30** | Multiply subtotal by 1.67 |
 
-**Score: ___ / 10**
+**Score: ___ / 30** (Sum of 6 criteria × 5 points each)
+
+**Weighted Score: ___ / 5** (Multiply subtotal by 0.167)
 
 ---
 
@@ -121,16 +125,17 @@
 | Quality and relevance of references provided | | |
 | Longevity of client relationships (retention rate) | | |
 | Case study specificity (before/after metrics, timeline) | | |
-| **Subtotal** | **/20** | Multiply subtotal by 1.25 |
 
-**Score: ___ / 5**
+**Score: ___ / 20** (Sum of 4 criteria × 5 points each)
+
+**Weighted Score: ___ / 5** (Multiply subtotal by 0.25)
 
 ---
 
 ## Final Scorecard Summary
 
-| Vendor | CPA Expertise (25) | AEO/AI (20) | Technical (15) | Content (15) | Reporting (10) | Pricing (10) | Track Record (5) | **TOTAL** |
-|--------|-------------------|-------------|----------------|--------------|----------------|--------------|------------------|-----------|
+| Vendor | CPA Expertise (/25) | AEO/AI (/25) | Technical (/15) | Content (/15) | Reporting (/10) | Pricing (/5) | Track Record (/5) | **TOTAL (/100)** |
+|--------|---------------------|--------------|-----------------|---------------|-----------------|--------------|-------------------|------------------|
 | Vendor A | | | | | | | | |
 | Vendor B | | | | | | | | |
 | Vendor C | | | | | | | | |
@@ -161,4 +166,4 @@ _Use this space to capture qualitative observations that don't fit the scoring r
 
 ---
 
-*Scorecard developed by [PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp) for CPA firm vendor evaluation.*
+*Scorecard developed by [PracticeGrowth](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp) for CPA firm vendor evaluation.*
