@@ -197,4 +197,4 @@ If your firm has multiple offices, also evaluate:
 
 ---
 
-*Scorecard developed by [PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-discoverability-rfp) for evaluating local SEO vendors.*
+*Scorecard developed by [PracticeGrowth](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp) for evaluating local SEO vendors.*

@@ -661,4 +661,4 @@ _All questions about this RFP must be submitted in writing to [email] by [date].
 
 ---
 
-*This RFP template is provided by [PracticeGrowth](https://www.PracticeGrowth.tech/?utm_source=github&utm_medium=repo&utm_campaign=seo-aeo-discoverability-rfp) as a free resource for CPA firms. PracticeGrowth is not a vendor responding to this RFP — this is a neutral template for your use.*
+*This RFP template is provided by [PracticeGrowth](https://www.practicegrowth.tech/?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp) as a free resource for CPA firms. PracticeGrowth is not a vendor responding to this RFP — this is a neutral template for your use.*
