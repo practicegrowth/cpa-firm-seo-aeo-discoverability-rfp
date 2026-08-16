@@ -10,6 +10,67 @@ Published: August 2026 | Last Reviewed: August 2026
 
 ---
 
+## Table of Contents
+
+- [Why This Repo Exists](#why-this-repo-exists)
+- [Start Here: Which Path Is Right For You?](#start-here-which-path-is-right-for-you)
+- [The 2026 AI Search Reality](#the-2026-ai-search-reality)
+- [The Old Way Is Dead: Why Traditional SEO Tactics Fail in 2026](#the-old-way-is-dead-why-traditional-seo-tactics-fail-in-2026)
+  - [The Shift: Traditional SEO Pitch vs. Modern Reality](#the-shift-traditional-seo-pitch-vs-modern-reality)
+  - [Four Structural Flaws of Traditional SEO for CPA Firms](#four-structural-flaws-of-traditional-seo-for-cpa-firms)
+  - [What Industry Leaders Are Saying](#what-industry-leaders-are-saying)
+  - [What to Stop Doing Immediately](#what-to-stop-doing-immediately)
+  - [The Research: 20 Authoritative Sources](#the-research-20-authoritative-sources)
+  - [The Bottom Line](#the-bottom-line)
+- [Red Flags in Your Current Vendor](#red-flags-in-your-current-vendor)
+- [Who This Is NOT For](#who-this-is-not-for)
+- [Common Objections & Responses](#common-objections--responses)
+- [Budget Planning](#budget-planning)
+- [Timeline Expectations](#timeline-expectations)
+- [Traditional SEO vs. AEO/GEO: What's the Difference?](#traditional-seo-vs-aeogeo-whats-the-difference)
+- [Quick Wins You Can Do Today](#quick-wins-you-can-do-today)
+- [Quick Start Template](#quick-start-template)
+- [What's Included](#whats-included)
+- [How to Use This Template](#how-to-use-this-template)
+- [What Good Looks Like: Success Indicators](#what-good-looks-like-success-indicators)
+- [Vendor Comparison Matrix](#vendor-comparison-matrix)
+- [After You Hire: Onboarding Best Practices](#after-you-hire-onboarding-best-practices)
+- [Real-World Scenarios](#real-world-scenarios)
+- [Glossary of Terms](#glossary-of-terms)
+- [Related Resources from PracticeGrowth](#related-resources-from-practicegrowth)
+- [Disclaimer](#disclaimer)
+- [About PracticeGrowth](#about-practicegrowth)
+- [License](#license)
+
+---
+
+## What's New
+
+**August 2026:**
+- ✅ Added comprehensive budget planning guidance by firm size
+- ✅ Added timeline expectations with monthly ROI projections
+- ✅ Added "Red Flags in Your Current Vendor" diagnostic section
+- ✅ Added "Who This Is NOT For" qualification content
+- ✅ Added "Common Objections & Responses" for sales conversations
+- ✅ Added "Quick Wins You Can Do Today" - 8 immediate actions
+- ✅ Added "Traditional SEO vs. AEO/GEO" comparison table
+- ✅ Added 3 detailed real-world scenarios with results
+- ✅ Added "What Good Looks Like" success indicators
+- ✅ Added "After You Hire" onboarding best practices
+- ✅ Added comprehensive glossary of terms
+- ✅ Added vendor comparison matrix template
+- ✅ Updated evaluation scorecard weights (AEO 25%, Pricing 5%)
+- ✅ Added AI crawling controls section to RFP template
+- ✅ Added "Why Most SEO Proposals Will Fail" section
+- ✅ Repository renamed to emphasize AEO importance
+- ✅ Added "The Old Way Is Dead" section with expert quotes and research citations
+- ✅ Added 20 authoritative research sources on zero-click search and AI optimization
+- ✅ Added industry leader perspectives from Rand Fishkin, Wil Reynolds, Kevin Indig, Lily Ray, and Ross Simmonds
+
+**This repo is actively maintained. Last updated: August 2026**
+
+---
+
 ## Why This Repo Exists
 
 **Traditional SEO is dead. AI search has won.**
@@ -57,6 +118,133 @@ Before using this template, understand the landscape you're operating in:
 - **Conversational queries dominate** — 10-11 word prompts vs 2-3 word keywords
 
 **What this means:** Traditional SEO is necessary but not sufficient. Your vendor must optimize for **citations in AI-generated answers**, not just rankings on a search results page.
+
+---
+
+## The Old Way Is Dead: Why Traditional SEO Tactics Fail in 2026
+
+Traditional digital agencies continue to pitch retainers centered on churning out generic blog posts, programmatic location pages, and synthetic backlinks. In the current search ecosystem—shaped by Google AI Overviews, Generative Engine Optimization (GEO), and Zero-Click Search—this model has become obsolete for high-trust professional services like CPA firms.
+
+### The Shift: Traditional SEO Pitch vs. Modern Reality
+
+| Agency Deliverable | What You Pay For | Current Search Reality | Commercial Impact |
+|:---|:---|:---|:---|
+| **Monthly Blog Posts** | 2-4 ghostwritten articles per month on generic definitions (e.g., "What is an S-Corp?") | **68% of Google searches end in Zero Clicks** (rising to 83% with AI Overviews). Google and ChatGPT answer definitions directly at position zero. | **Near-Zero Lead Generation.** You fund content that AI summarizes for free without driving website visits. |
+| **Programmatic City Pages** | Templated landing pages for nearby towns (e.g., "CPA in Plano," "Tax Advisor Frisco") | Google's Site Reputation and Spam algorithms demote thin, templated doorway pages lacking physical addresses or unique case data. | **Wasted Retainer Fees.** Pages are filtered out by Google or bypassed by users seeking authentic local proof. |
+| **National Keyword Chasing** | Targeting broad national organic keywords (e.g., "best CPA firm") | Pitted against massive aggregators and call-centers holding 20-year domain authority and multi-million-dollar budgets. | **Extended Time Lag.** Capital is locked for 12+ months with negligible page-one visibility. |
+| **Outsourced Backlinks** | Cold-outreach guest posts and generic link directory placement | LLMs and modern ranking algorithms prioritize verified entity credentials, Google Business Profiles, and structured review sentiment over volume links. | **Diminishing Returns.** Synthetic backlinks fail to build consumer trust in regulated professional verticals. |
+
+### Four Structural Flaws of Traditional SEO for CPA Firms
+
+**1. The Zero-Click Search Wall**
+
+Over two-thirds of search queries are answered directly within search engine answer cards. Informational blog posts no longer convert readers into callers. When a prospect searches "what is the QBI deduction," Google AI Overviews provides the answer instantly. Your blog post—optimized for that exact query—never gets clicked.
+
+**2. Distress-Driven Consumer Psychology**
+
+CPA services are often time-sensitive and trust-critical. Taxpayers receiving IRS notices, business owners facing audits, and individuals navigating complex financial decisions seek immediate credentialed representation via Google Maps or Google Screened listings—not multi-paragraph blog articles. The buying journey has compressed from "research → compare → contact" to "search → see credentials → call."
+
+**3. Strict YMYL & E-E-A-T Quality Filters**
+
+Google enforces rigorous Experience, Expertitativeness, Authoritativeness, and Trustworthiness (E-E-A-T) standards on Your Money or Your Life (YMYL) topics. Tax, accounting, and financial advice are all YMYL verticals. Generic content lacks professional standing and faces systematic algorithmic suppression. Without authentic practitioner experience and genuine entity authority, mass blog publishing carries serious algorithmic risk.
+
+**4. Failure to Leverage Core Trust Assets**
+
+Most CPA firms already hold exceptional trust assets: decades of client relationships, professional credentials, authentic reviews, and specialized expertise. The question isn't "how do we build trust?" It's "how do we scale that trust across AI search platforms?" Traditional SEO ignores these assets in favor of generic content that doesn't leverage your firm's unique authority.
+
+### What Industry Leaders Are Saying
+
+> **Rand Fishkin (Co-Founder, SparkToro & Former CEO of Moz):**
+> *"The search landscape has permanently decoupled from website traffic. When over two-thirds of searches end on the SERP without a click to the open web, continuing to measure digital marketing success by organic blog impressions is institutional negligence. Google is no longer a search engine; it is an answer engine designed to keep users inside its own walled garden."*
+
+> **Wil Reynolds (Founder & CEO, Seer Interactive):**
+> *"AI Overviews are cannibalizing click-through rates across both paid and organic search. When AI summarizes the answer, organic CTR drops by more than 60%. If an agency is selling you content targeting queries that AI answers instantly on screen, you are paying for content that search engines consume for free without sending you a single customer."*
+
+> **Kevin Indig (Growth Advisor, ex-Shopify, G2, Atlassian; Author of *Growth Memo*):**
+> *"In behavioral studies of generative search, over 90% of user sessions conclude without an open-web click. AI engines don't care about your 1,000-word blog post or keyword density. Visibility in AI systems is driven by structured entities, trust signals, and rapid factual utility, not traditional content quantity."*
+
+> **Lily Ray (VP of SEO & AI Search, Amsive):**
+> *"Scaling generic content and churning out thin informational articles is a trap. In YMYL (Your Money or Your Life) verticals like tax, finance, and legal, Google's algorithms actively filter out non-expert content. Without authentic practitioner experience and genuine entity authority, mass blog publishing carries serious algorithmic risk."*
+
+> **Ross Simmonds (Founder & CEO, Foundation Marketing):**
+> *"Great content without authentic distribution or direct-intent utility is just expensive digital storage. The era of 'publish 4 blog posts a month and wait for organic rankings' is over. If the content doesn't drive immediate conversion or own a distinct entity space, it's wasted capital."*
+
+### What to Stop Doing Immediately
+
+If your current vendor is doing any of the following, you're paying for tactics that don't work in 2026:
+
+❌ **Stop paying for generic blog posts that AI summarizes for free.**
+If your vendor is publishing "What is an S-Corp?" articles, they're creating content that Google AI Overviews and ChatGPT will answer directly. Your prospects never click through. You're funding content that AI engines consume without sending you a single lead.
+
+❌ **Stop building programmatic location pages that Google demotes.**
+Templated "CPA in [City]" pages without unique content, physical addresses, or local case data are flagged as doorway pages. Google's Site Reputation Abuse policies actively suppress these. You're paying for pages that get filtered out.
+
+❌ **Stop chasing national keywords against aggregators.**
+Targeting "best CPA firm" or "tax help near me" puts you in competition with massive aggregators (NerdWallet, Investopedia, TurboTax) that have 20-year domain authority and multi-million-dollar budgets. You'll never outrank them. You need to own your specific entity space, not compete on broad terms.
+
+❌ **Stop buying outsourced backlinks that don't build entity authority.**
+LLMs and modern ranking algorithms prioritize verified entity credentials, structured reviews, and professional authority over link volume. Cold-outreach guest posts and directory links don't build the trust signals that AI models use to cite sources.
+
+❌ **Stop measuring success by rankings and traffic.**
+If your vendor's reports focus on "you're #3 for this keyword" without discussing AI citations, conversion rates, or business outcomes, they're measuring metrics that no longer correlate with revenue. Rankings don't matter if no one clicks.
+
+### The Research: 20 Authoritative Sources
+
+This isn't just our opinion. It's industry consensus backed by extensive research:
+
+**Zero-Click Search Behavior:**
+1. SparkToro & Similarweb — "The 2024-2026 Google Zero-Click Search Behavior Study"
+2. Search Engine Roundtable — "Google Zero-Click Searches to the Open Web Drop Below 28%"
+3. Ahrefs Research — "Evaluating SERP Encroachment: Where Organic Clicks Actually Go"
+
+**AI Search & GEO:**
+4. ACM SIGKDD (Princeton / Georgia Tech) — "GEO: Generative Engine Optimization Benchmark"
+5. Profound Digital — "The A-List of Generative Engine Optimization: Trust Stacks in AI Search"
+6. vidIQ Research — "Citation Patterns Across AI Search Engines: Video vs. Text Dominance"
+
+**AI Overview Impact on CTR:**
+7. Seer Interactive — "Analyzing the Empirical Impact of AI Overviews on Organic CTR"
+8. Kevin Indig (Growth Memo) — "Behavioral Clickstream Study: 846,000 Search Engine Sessions"
+9. Search Engine Land — "Why Informational Blog Content Is Suffering the Greatest Traffic Loss"
+
+**YMYL & E-E-A-T Enforcement:**
+10. Search Engine Journal — "Google Quality Rater Guidelines: YMYL and E-E-A-T Enforcement"
+11. Lily Ray (Substack) — "Scaling AI Content Backfire: Analysis of 220 Scaled Content Domains"
+12. Clearscope (Bernard Huang) — "Information Gain and the Algorithmic Penalty on Parroted Content"
+
+**Google Spam Policies:**
+13. Search Engine Land — "Google's Site Reputation Abuse and Scaled Content Spam Policies"
+14. Moz Blog — "The Real Cost of Doorway and Programmatic Location Pages in Local SEO"
+
+**Local Search & Entity Authority:**
+15. Local University (LocalU) — "Google Business Profile and LSA vs. Traditional Organic Web Rank"
+16. Neil Patel Digital — "How Google AI Search Reshapes Paid vs. Organic ROI for Local Firms"
+
+**Industry Forecasts:**
+17. Gartner Technology Forecast — "Traditional Search Volume Decline Driven by Conversational AI"
+18. HubSpot Marketing Report — "The State of Search & Customer Discovery in the Generative Era"
+
+**Content Strategy:**
+19. Backlinko / Exploding Topics — "Generative Search Optimization vs. Traditional Keyword SEO"
+20. Foundation Marketing (Ross Simmonds) — "The Content Distribution Mindset in the Post-SEO Era"
+
+### The Bottom Line
+
+Traditional SEO was designed for a world where users clicked through to websites. That world is gone.
+
+**You can have #1 rankings and zero traffic.** Rankings don't matter if no one clicks.
+
+**You can publish 50 blog posts and get zero AI citations.** Content quantity doesn't matter if it lacks entity authority, structured data, and E-E-A-T signals.
+
+**You can build 100 backlinks and lose to a competitor with 10 reviews.** Link volume doesn't matter if AI models prioritize verified entity credentials and trust signals.
+
+The firms winning in 2026 aren't the ones with the most content or the highest rankings. They're the ones with:
+- Comprehensive structured data that AI models can parse
+- Authentic practitioner credentials that demonstrate E-E-A-T
+- Platform-specific optimization for ChatGPT, Perplexity, and Google AI Overviews
+- Verified entity authority that AI models trust and cite
+
+**If your vendor is still selling you the old way, they're selling you obsolescence.**
 
 ---
 
