@@ -25,21 +25,27 @@ Use it to solicit proposals, compare vendors objectively, and select a partner w
 
 | File | Purpose |
 |------|---------|
-| [`rfp-template.md`](rfp-template.md) | Full RFP template with 11 sections — ready to customize and send to vendors |
+| [`rfp-template.md`](rfp-template.md) | Full RFP template with 11 sections — ready to customize and send to vendors. Includes zero-click world context, red flags, and vendor mistakes to watch for. |
 | [`evaluation-scorecard.md`](evaluation-scorecard.md) | Weighted scoring matrix (1–5 scale) for objective vendor comparison |
-| [`aeo-readiness-checklist.md`](aeo-readiness-checklist.md) | Checklist for evaluating a vendor's AI search optimization capability |
+| [`aeo-readiness-checklist.md`](aeo-readiness-checklist.md) | Checklist for evaluating a vendor's AI search optimization capability. Includes actionable examples (JSON-LD, featured snippets, E-E-A-T, voice search). |
 | [`local-seo-scorecard.md`](local-seo-scorecard.md) | Local search optimization evaluation criteria |
+| [`rfp-process-guide.md`](rfp-process-guide.md) | Step-by-step guide to running the vendor selection process (preparation → evaluation → presentations → contract) |
+| [`presentation-interview-questions.md`](presentation-interview-questions.md) | 20 interview questions to ask vendors during presentations, with red flags and what to look for |
+| [`contract-checklist.md`](contract-checklist.md) | Comprehensive checklist for reviewing and negotiating vendor contracts |
 
 ---
 
 ## How to Use This Template
 
-1. **Customize the RFP** — Fill in your firm's specific details in the bracketed sections of `rfp-template.md`
-2. **Distribute to vendors** — Send the RFP + scorecard to 3–5 shortlisted agencies
-3. **Score responses** — Use the evaluation scorecard to rate each vendor objectively
-4. **Check AEO readiness** — Use the AEO checklist to assess AI search optimization capability
-5. **Evaluate local SEO** — Use the local SEO scorecard for firms with multi-location or service-area needs
-6. **Select & negotiate** — Choose the highest-scoring vendor and proceed to contracting
+1. **Read the process guide** — Start with [`rfp-process-guide.md`](rfp-process-guide.md) to understand the full vendor selection workflow
+2. **Customize the RFP** — Fill in your firm's specific details in the bracketed sections of `rfp-template.md`
+3. **Distribute to vendors** — Send the RFP + scorecard to 3–5 shortlisted agencies
+4. **Score responses** — Use the evaluation scorecard to rate each vendor objectively
+5. **Check AEO readiness** — Use the AEO checklist to assess AI search optimization capability
+6. **Evaluate local SEO** — Use the local SEO scorecard for firms with multi-location or service-area needs
+7. **Prepare for presentations** — Use the interview questions guide during vendor presentations
+8. **Review contracts** — Use the contract checklist before signing
+9. **Select & negotiate** — Choose the highest-scoring vendor and proceed to contracting
 
 ---
 

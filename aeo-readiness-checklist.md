@@ -30,7 +30,7 @@ Mark each item: ✅ (demonstrated capability), ⚠️ (claimed but no evidence),
 
 ## 2. Structured Data Implementation
 
-_Ask the vendor which schema types they implement and why:_
+_Ask the vendor which schema types they implement and why. They should provide specific JSON-LD examples._
 
 - [ ] **Organization schema** — Firm name, logo, address, contact, social profiles
 - [ ] **LocalBusiness / ProfessionalService schema** — Location, hours, services, price range
@@ -42,6 +42,35 @@ _Ask the vendor which schema types they implement and why:_
 - [ ] **Review / AggregateRating schema** — Review snippets (where compliant)
 - [ ] **Speakable schema** — Content marked for voice/AI extraction
 - [ ] **SameAs** — Links to authoritative profiles (LinkedIn, state board, professional associations)
+
+**Example: What good looks like**
+
+Ask the vendor to show you a JSON-LD example. Here's what Organization schema should include:
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "AccountingService",
+  "name": "Smith & Associates CPA",
+  "image": "https://example.com/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Main St",
+    "addressLocality": "Dallas",
+    "addressRegion": "TX",
+    "postalCode": "75201"
+  },
+  "telephone": "+1-214-555-0123",
+  "priceRange": "$$",
+  "openingHours": "Mo-Fr 09:00-17:00",
+  "sameAs": [
+    "https://www.linkedin.com/company/smith-cpa",
+    "https://www.facebook.com/smithcpa"
+  ]
+}
+```
+
+**Red flag:** If they can't show you JSON-LD examples or don't know what structured data is, they're not AEO-ready.
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
@@ -56,13 +85,32 @@ _Ask the vendor which schema types they implement and why:_
 - [ ] Can they show examples of snippets they've won for clients?
 - [ ] Do they track snippet ownership over time?
 
+**Example: What good looks like**
+
+For a query like "What is the QBI deduction?", the content should be structured as:
+
+```markdown
+## What is the Qualified Business Income (QBI) Deduction?
+
+The Qualified Business Income (QBI) deduction, also known as Section 199A deduction, allows eligible self-employed individuals and small-business owners to deduct up to 20% of their qualified business income on their tax returns. This deduction is available for tax years 2018 through 2025 and can significantly reduce tax liability for pass-through entities.
+
+### Who Qualifies for QBI?
+- Sole proprietors
+- Partners in partnerships
+- S corporation shareholders
+- Certain trusts and estates
+- Independent contractors
+```
+
+**Why this works:** Clear H2 heading matching the query, concise 40-60 word answer in first paragraph, followed by supporting details in scannable format.
+
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
 ---
 
 ## 4. E-E-A-T Signal Optimization
 
-_E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) is critical for both traditional and AI search._
+_E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) is critical for both traditional and AI search. AI models heavily weight E-E-A-T signals when deciding which sources to cite._
 
 - [ ] **Author bios** — Do they create detailed author pages with credentials, photo, bio, social links?
 - [ ] **Credential display** — CPA license numbers, state board membership, professional designations
@@ -71,6 +119,22 @@ _E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) is critical
 - [ ] **Editorial standards** — Documented content review process, fact-checking, update cadence
 - [ ] **Trust signals** — Professional association memberships (AICPA, state societies), awards, media mentions
 - [ ] **Content attribution** — Every piece of content has a named author with verifiable credentials
+
+**Example: What good looks like**
+
+Every blog post should have an author byline with a linked bio page:
+
+```
+By Jane Smith, CPA, MST
+Jane is a tax partner at Smith & Associates with 15 years of experience 
+specializing in small business tax planning. She is a member of the AICPA 
+and Texas Society of CPAs.
+[View full bio →]
+```
+
+The bio page should include: professional photo, full credentials, license number, years of experience, areas of expertise, professional memberships, media appearances, published works, and LinkedIn profile link.
+
+**Why this matters:** AI models use author credentials to assess content reliability. Anonymous or uncredentialed content is less likely to be cited.
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 
@@ -100,6 +164,31 @@ _How does the vendor measure AI search visibility?_
 - [ ] Do they implement natural language content formatting?
 - [ ] Do they optimize for question-based queries (who, what, when, where, why, how)?
 - [ ] Is local voice search optimization included (near me, local service queries)?
+
+**Example: What good looks like**
+
+Voice queries are conversational and question-based. Content should be structured to answer these directly:
+
+**Voice query:** "Hey Google, find a CPA near me who specializes in small business taxes"
+
+**Optimized content structure:**
+```markdown
+## Small Business CPA in Dallas, TX
+
+Looking for a CPA who specializes in small business taxes in Dallas? Smith & Associates has helped over 200 Dallas small businesses reduce their tax liability by an average of 23%.
+
+### Our Small Business Tax Services
+- Entity selection (LLC, S-Corp, C-Corp)
+- Quarterly estimated tax planning
+- Year-end tax optimization strategies
+- IRS audit representation
+- Bookkeeping and payroll
+
+**Serving:** Dallas, Fort Worth, Plano, Frisco, and surrounding areas
+**Call us:** (214) 555-0123
+```
+
+**Why this works:** Direct answer to "CPA near me," includes location modifiers, conversational tone, clear service list, and prominent contact info for voice assistants to read.
 
 **Vendor Response Quality:** [ ] Strong [ ] Adequate [ ] Weak [ ] No awareness
 

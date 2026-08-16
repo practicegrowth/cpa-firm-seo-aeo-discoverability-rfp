@@ -31,7 +31,24 @@ _Discribe your current discoverability challenges. Examples:_
 - [ ] Our site has technical SEO issues (speed, mobile, crawlability)
 - [ ] We're losing clients to competitors who rank higher
 
-### 1.3 Success Metrics
+### 1.3 Market Context: The Zero-Click World
+
+**Important context for vendors:** We recognize that the search landscape has fundamentally shifted. Traditional SEO (ranking for keywords and driving clicks to websites) is no longer sufficient. In 2026:
+
+- **Zero-click searches dominate** — Over 60% of Google searches result in zero clicks to websites. Users get answers directly from Google AI Overviews, featured snippets, and knowledge panels.
+- **AI-powered search is mainstream** — ChatGPT, Perplexity, Google AI Overviews, and other AI platforms are where professionals research solutions. If you're not cited in AI answers, you're invisible to a growing segment of buyers.
+- **Traditional SEO is necessary but not sufficient** — Ranking #1 organically matters less when AI answers appear above organic results. Vendors who only optimize for traditional rankings are stuck in 2020 thinking.
+- **AEO (Answer Engine Optimization) is critical** — The goal is no longer just "rankings" — it's "citations." We need to be cited in AI-generated answers, featured snippets, and knowledge panels.
+
+**What this means for your proposal:**
+- Don't just tell us how you'll improve our rankings. Tell us how you'll get us cited in AI answers.
+- Don't just optimize for Google. Optimize for ChatGPT, Perplexity, and other AI platforms.
+- Don't just drive traffic. Drive citations, brand recognition, and authority in AI models.
+- If your approach is "traditional SEO plus some AI sprinkled on top," you're not the vendor we're looking for.
+
+We're looking for a partner who understands that **discoverability in 2026 means being the answer, not just a result.**
+
+### 1.4 Success Metrics
 
 _What does success look like in 12 months?_
 
@@ -410,6 +427,96 @@ _Proposals will be evaluated on the following weighted criteria:_
 | **References & Track Record** | 5% | Measurable results from similar CPA firms, quality of references, longevity of client relationships |
 
 _See [`evaluation-scorecard.md`](evaluation-scorecard.md) for the detailed scoring rubric._
+
+---
+
+## 10.5 Common Vendor Mistakes & Red Flags
+
+_We've compiled this list based on feedback from CPA firms who've had bad experiences with SEO vendors. Use this to evaluate vendor proposals and presentations._
+
+### 10.5.1 Red Flags in Proposals 🚩
+
+**Disqualify vendors who:**
+
+- ❌ **Guarantee #1 rankings** — No one can guarantee specific rankings. Google's algorithm is proprietary and constantly changing. Anyone who guarantees #1 is either lying or using black-hat tactics that will get you penalized.
+
+- ❌ **Can't explain AEO or AI search optimization** — It's 2026. If they can't articulate how they optimize for Google AI Overviews, ChatGPT, Perplexity, and other AI platforms, they're behind the curve. "We'll add AI later" is not acceptable.
+
+- ❌ **Suggests PBNs or link schemes** — Private Blog Networks, paid links without nofollow, link exchanges, and other black-hat tactics violate Google guidelines and can result in penalties. Walk away immediately.
+
+- ❌ **Generic, templated proposals** — If the proposal reads like it was sent to 100 other firms with just the firm name changed, they don't understand your business. Look for specificity: your services, your market, your challenges.
+
+- ❌ **No CPA/accounting firm experience** — Professional services marketing is different from e-commerce or SaaS. If they can't show case studies from CPA firms, they don't understand the buyer journey, regulations, or seasonal patterns.
+
+- ❌ **Vague about pricing or hidden fees** — "It depends" is not a pricing model. If they can't give you clear, transparent pricing upfront, they'll nickel-and-dime you later. Watch for "additional costs" for tools, content, or reporting.
+
+- ❌ **Long-term contracts with auto-renewal** — 12-month minimums with auto-renewal and difficult termination clauses are red flags. Good vendors earn your business monthly. Lock-in suggests they know they can't deliver.
+
+- ❌ **Focuses only on rankings or traffic** — Rankings and traffic are vanity metrics. What matters is leads, conversions, and revenue. If they can't connect SEO to business outcomes, they're not strategic partners.
+
+- ❌ **Can't provide references from similar firms** — "Trust us" is not a reference. Ask for 2-3 references from CPA firms they've worked with. If they can't provide them, they don't have relevant experience.
+
+- ❌ **Suggests AI-generated content without human review** — AI can help with ideation and drafting, but CPA content must be reviewed by qualified professionals for accuracy. Publishing AI-generated content without review is a liability risk.
+
+- ❌ **Doesn't understand professional services regulations** — State boards have rules about advertising, solicitation, and review generation. If they suggest tactics that violate these rules, they're a liability.
+
+- ❌ **Can't explain their reporting methodology** — If they can't show you what they'll report, how often, and how you'll access it, they're not transparent. You should have dashboard access, not just PDF reports.
+
+### 10.5.2 Common Vendor Mistakes
+
+**Mistakes vendors make that hurt CPA firms:**
+
+1. **Keyword stuffing service pages** — Stuffing "CPA Dallas," "tax preparer Dallas," "accountant Dallas" into every paragraph doesn't work. It creates poor user experience and can trigger spam filters. Focus on natural, helpful content.
+
+2. **Generic content that doesn't demonstrate expertise** — "10 Tax Tips for Small Businesses" is generic. "How Section 199A QBI Deduction Applies to S-Corps in Texas" demonstrates expertise. The latter gets cited in AI answers; the former doesn't.
+
+3. **Ignoring local SEO for multi-location firms** — Creating duplicate location pages with just the city name changed doesn't work. Each location page needs unique, valuable content specific to that market.
+
+4. **Neglecting structured data and schema markup** — Without proper schema (Organization, LocalBusiness, Person, Article, FAQ), AI models can't understand your content. This is table stakes in 2026.
+
+5. **No author attribution or E-E-A-T signals** — Publishing content without author bios, credentials, and citations signals low quality to both Google and AI models. Every piece of content should have a named, credentialed author.
+
+6. **Focusing on quantity over quality** — Publishing 20 generic blog posts per month is worse than publishing 4 deeply researched, authoritative pieces. Quality content gets cited; quantity content gets ignored.
+
+7. **Not optimizing for AI extractability** — Content with long paragraphs, no clear headings, and no concise answers won't be extracted by AI models. Structure content for AI: clear headings, concise answers in first 1-2 paragraphs, scannable format.
+
+8. **Ignoring review generation** — Reviews are critical for local SEO and trust signals. If the vendor doesn't have a strategy for ethical review solicitation, you're leaving money on the table.
+
+9. **No AI citation tracking** — If they can't track whether you're being cited in AI answers, they're flying blind. AI citation tracking is as important as traditional rank tracking in 2026.
+
+10. **Treating AI search as an afterthought** — "We'll add AI optimization later" is a red flag. AI search is not an add-on; it's core to discoverability. Vendors who treat it as secondary are stuck in 2020 thinking.
+
+### 10.5.3 Questions to Expose Weak Vendors
+
+**Ask these questions during presentations to separate strong vendors from weak ones:**
+
+1. **"Show me a client you've helped appear in Google AI Overviews or AI chat responses."**
+   - Strong vendor: Shows specific examples with metrics
+   - Weak vendor: "We're still developing our AI capabilities"
+
+2. **"What structured data types do you implement for CPA firms? Show me a JSON-LD example."**
+   - Strong vendor: Names 8-10 schema types, shows code examples
+   - Weak vendor: "We add schema" (vague, no specifics)
+
+3. **"How do you measure AI search visibility? What tools do you use?"**
+   - Strong vendor: Names specific tools (Profound, Otterly, custom methodologies)
+   - Weak vendor: "We track rankings" (doesn't understand AI citations)
+
+4. **"Walk me through your content review process. How do you ensure accuracy?"**
+   - Strong vendor: Content writer → CPA review → fact-check → publish
+   - Weak vendor: "We use AI to generate content" (no human review)
+
+5. **"What's your approach to E-E-A-T? How do you demonstrate expertise in content?"**
+   - Strong vendor: Author bios, credentials, citations, about pages, editorial standards
+   - Weak vendor: "We write good content" (vague, no specifics)
+
+6. **"How do you handle state board advertising restrictions for CPA firms?"**
+   - Strong vendor: Understands restrictions, has compliant review solicitation methods
+   - Weak vendor: "What restrictions?" (doesn't understand professional services)
+
+7. **"What happens if we're not satisfied with results? Can we terminate early?"**
+   - Strong vendor: 30-day termination clause, no penalties, transition support
+   - Weak vendor: "You won't want to leave" (deflects, suggests lock-in)
 
 ---
 
