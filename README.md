@@ -890,18 +890,276 @@ This repository provides a **neutral, comprehensive RFP template and evaluation 
 Use it to solicit proposals, compare vendors objectively, and select a partner who understands the unique requirements of professional services marketing.
 
 ---
+## Common Mistakes CPA Firms Make (Beyond Vendor Selection)
 
-## What's Included
+Even with the right vendor, firms sabotage their own success. Here are the most common mistakes:
 
-| File | Purpose |
-|------|---------|
-| [`rfp-template.md`](rfp-template.md) | Full RFP template with 13 sections — ready to customize and send to vendors. Includes zero-click world context, AI crawling controls, and vendor mistakes to watch for. |
-| [`evaluation-scorecard.md`](evaluation-scorecard.md) | Weighted scoring matrix (1–5 scale) for objective vendor comparison |
-| [`aeo-readiness-checklist.md`](aeo-readiness-checklist.md) | Checklist for evaluating a vendor's AI search optimization capability. Includes actionable examples (JSON-LD, featured snippets, E-E-A-T, voice search). |
-| [`local-seo-scorecard.md`](local-seo-scorecard.md) | Local search optimization evaluation criteria |
-| [`rfp-process-guide.md`](rfp-process-guide.md) | Step-by-step guide to running the vendor selection process (preparation → evaluation → presentations → contract) |
-| [`presentation-interview-questions.md`](presentation-interview-questions.md) | 20 interview questions to ask vendors during presentations, with red flags and what to look for |
-| [`contract-checklist.md`](contract-checklist.md) | Comprehensive checklist for reviewing and negotiating vendor contracts |
+### ❌ Treating AI Search as an Afterthought
+**The Mistake:** "We'll add AI optimization later" or "Let's focus on traditional SEO first, then add AI."
+
+**Why It Fails:** AI search isn't an add-on—it's the foundation. By the time you "get around to it," competitors have already built authority and earned citations. You're playing catch-up in a game that compounds over time.
+
+**The Fix:** Make AI search optimization core to your strategy from day one. It's not separate from SEO; it's the evolution of SEO.
+
+### ❌ Ignoring Your Own Expertise
+**The Mistake:** Letting the vendor create generic content without CPA input, review, or attribution.
+
+**Why It Fails:** AI models prioritize authentic expertise. Content without practitioner attribution, credentials, or review lacks E-E-A-T signals. You're missing your biggest competitive advantage: your actual expertise.
+
+**The Fix:** Require CPA involvement in content creation. Every piece should have author attribution, credentials, and practitioner review. Your expertise is the differentiator.
+
+### ❌ Focusing on Volume Over Quality
+**The Mistake:** "We need 20 blog posts per month" or "More content = better results."
+
+**Why It Fails:** AI models don't reward volume. They reward authority, accuracy, and extractability. Publishing 20 generic posts is worse than publishing 4 deeply researched, well-structured pieces with proper E-E-A-T signals.
+
+**The Fix:** Focus on quality over quantity. Fewer pieces, but each one should be authoritative, well-structured, and optimized for AI extractability.
+
+### ❌ Neglecting Review Generation
+**The Mistake:** "Reviews will happen naturally" or "We don't need to ask for reviews."
+
+**Why It Fails:** Since ChatGPT's July 2026 Yelp integration, reviews directly impact AI citations. If you're not actively generating reviews, you're invisible to AI search. Competitors with more reviews get cited; you don't.
+
+**The Fix:** Implement a systematic review generation strategy. Ask happy clients for reviews on Google and Yelp. Make it part of your client offboarding process.
+
+### ❌ Measuring the Wrong Metrics
+**The Mistake:** Tracking keyword rankings, domain authority, or backlink count.
+
+**Why It Fails:** These metrics don't correlate with AI citations or business outcomes. You can have #1 rankings and zero AI citations. You can have high domain authority and no leads from AI search.
+
+**The Fix:** Track AI citations, AI-referred leads, conversion rates from AI traffic, and business outcomes. These are the metrics that matter in 2026.
+
+### ❌ Expecting Instant Results
+**The Mistake:** "We've been working with our vendor for 2 months and haven't seen results yet."
+
+**Why It Fails:** AI search optimization takes 6-12 months to show significant results. Building authority, earning citations, and establishing brand recognition in AI models is a compounding process. Expecting instant results leads to premature vendor changes and wasted investment.
+
+**The Fix:** Set realistic expectations. Month 1-3 is foundation work. Month 4-6 shows early wins. Month 7-12 shows compounding returns. Trust the process.
+
+### ❌ Not Optimizing for Platform Differences
+**The Mistake:** "We're optimizing for AI search" without understanding that ChatGPT, Perplexity, and Google AI Overviews work differently.
+
+**Why It Fails:** Each platform has different citation patterns, trust signals, and optimization requirements. A one-size-fits-all approach won't work. You need platform-specific strategies.
+
+**The Fix:** Ensure your vendor understands platform differences and has specific strategies for each. Ask: "How do you optimize differently for ChatGPT vs. Perplexity vs. Google AI Overviews?"
+
+### ❌ Ignoring Local SEO
+**The Mistake:** "We serve clients nationally, so local SEO doesn't matter."
+
+**Why It Fails:** Even national firms benefit from local SEO. Google Business Profile optimization, reviews, and local citations build overall authority. AI models use local signals as trust indicators. Plus, most CPA firms have local clients.
+
+**The Fix:** Optimize your Google Business Profile, generate reviews, and build local citations. It's not optional—it's foundational.
+
+---
+
+## Future-Proofing: What to Watch For in 2027 and Beyond
+
+AI search is evolving rapidly. Here's what firms should monitor:
+
+### 🔮 Emerging AI Search Platforms
+- **Claude (Anthropic)** — Growing rapidly, favors long-form, well-structured content
+- **Gemini (Google)** — Integrated into Google ecosystem, prioritizes Google-verified entities
+- **Microsoft Copilot** — Bing-powered, favors Microsoft-verified businesses
+- **Industry-specific AI assistants** — Tax-specific AI tools, accounting AI platforms
+
+**What to Do:** Ensure your vendor monitors emerging platforms and adapts strategies accordingly. Ask: "What new AI platforms are you tracking, and how are you preparing for them?"
+
+### 🔮 Voice Search Evolution
+- Smart speakers (Alexa, Google Home) increasingly used for professional service queries
+- Voice-activated AI assistants becoming primary search interface
+- Conversational queries becoming even more natural and complex
+
+**What to Do:** Optimize for conversational, question-based queries. Ensure your content answers questions directly and concisely. Test your content with voice search.
+
+### 🔮 AI Citation Tracking Tools
+- New tools emerging for tracking AI citations across platforms
+- More sophisticated measurement of brand recognition in AI models
+- Better attribution of leads to specific AI platforms
+
+**What to Do:** Ensure your vendor uses cutting-edge AI citation tracking tools. Ask: "What tools do you use to track AI citations, and how do you measure brand recognition in AI models?"
+
+### 🔮 Structured Data Evolution
+- New schema types being developed for AI search
+- More sophisticated entity recognition
+- Better integration between structured data and AI citation
+
+**What to Do:** Stay current with schema.org updates and new structured data types. Ensure your vendor implements the latest schema standards.
+
+### 🔮 Privacy and Data Regulations
+- Increasing regulations around AI training data
+- Potential restrictions on how AI models use business information
+- New compliance requirements for AI-optimized content
+
+**What to Do:** Ensure your vendor stays current with privacy regulations and adapts strategies accordingly. Ask: "How are you preparing for potential changes in AI training data regulations?"
+
+### 🔮 AI Model Updates
+- Google, OpenAI, Anthropic regularly update their models
+- Citation patterns change with model updates
+- Trust signals and ranking factors evolve
+
+**What to Do:** Ensure your vendor monitors model updates and adapts strategies accordingly. Ask: "How do you stay current with AI model updates, and how do you adapt strategies when citation patterns change?"
+
+---
+
+## Quick Diagnostic: Where Does Your Firm Stand?
+
+Answer these 10 questions to understand your current AI search readiness:
+
+### Self-Assessment (5 minutes)
+
+**1. Are you currently cited in ChatGPT, Perplexity, or Google AI Overviews for your target services?**
+- [ ] Yes, consistently
+- [ ] Sometimes
+- [ ] No / Don't know
+- [ ] We're not being cited at all
+
+**2. Does your website have comprehensive structured data (Organization, LocalBusiness, ProfessionalService, Person, Article, FAQ, HowTo)?**
+- [ ] Yes, all types implemented
+- [ ] Some types implemented
+- [ ] No structured data
+- [ ] Don't know
+
+**3. Do your blog posts and service pages have author attribution with CPA credentials?**
+- [ ] Yes, all content has author bios with credentials
+- [ ] Some content has author attribution
+- [ ] No author attribution
+- [ ] Don't know
+
+**4. Is your Google Business Profile fully optimized (services, hours, photos, posts, Q&A)?**
+- [ ] Yes, fully optimized
+- [ ] Partially optimized
+- [ ] Basic profile only
+- [ ] Not claimed
+
+**5. Do you have a systematic review generation strategy?**
+- [ ] Yes, we actively generate reviews on Google and Yelp
+- [ ] We ask for reviews occasionally
+- [ ] No review generation strategy
+- [ ] We don't have many reviews
+
+**6. Does your vendor track AI citations and report on them?**
+- [ ] Yes, we get monthly AI citation reports
+- [ ] Vendor mentions AI but doesn't track citations
+- [ ] No AI citation tracking
+- [ ] We don't have a vendor
+
+**7. Is your content formatted for AI extractability (clear headings, concise answers, scannable structure)?**
+- [ ] Yes, all content is optimized for AI extractability
+- [ ] Some content is optimized
+- [ ] No AI extractability optimization
+- [ ] Don't know what this means
+
+**8. Do you understand the difference between Google AI Overviews and Google AI Mode?**
+- [ ] Yes, and we optimize differently for each
+- [ ] We know they're different but don't optimize differently
+- [ ] No, we thought they were the same
+- [ ] Don't know what Google AI Mode is
+
+**9. Does your vendor have a platform-specific strategy for ChatGPT, Perplexity, and Google AI Overviews?**
+- [ ] Yes, we have specific strategies for each platform
+- [ ] We have a general AI strategy but not platform-specific
+- [ ] No platform-specific strategy
+- [ ] We don't have a vendor
+
+**10. Are you seeing leads from AI-referred traffic?**
+- [ ] Yes, we're getting leads from ChatGPT, Perplexity, and AI Overviews
+- [ ] Some leads, but not many
+- [ ] No leads from AI search
+- [ ] Don't know how to track this
+
+### Scoring
+
+**Count your answers:**
+- **Mostly "Yes" answers (8-10):** You're well-positioned for AI search. Focus on optimization and scaling.
+- **Mixed answers (4-7):** You have a foundation but significant gaps. Prioritize fixing the "No" answers.
+- **Mostly "No" answers (0-3):** You're behind the curve. You need comprehensive AI search optimization immediately.
+
+### What to Do Next
+
+**If you scored 8-10:** You're ahead of most CPA firms. Focus on scaling your AI presence and maintaining your competitive advantage. Consider working with a vendor who can help you dominate AI citations in your market.
+
+**If you scored 4-7:** You have work to do. Start with the "No" answers and prioritize fixing those gaps. Use this repo's resources to guide your vendor selection or optimize your current engagement.
+
+**If you scored 0-3:** You need immediate help. Traditional SEO won't get you there. You need a vendor who specializes in AI search optimization. Use the Quick Start Template to find the right partner quickly.
+
+---
+
+## Why PracticeGrowth?
+
+You've read this far. You understand the landscape. You know what to look for in a vendor. Now you're wondering: "Should we work with PracticeGrowth?"
+
+Here's why firms choose us:
+
+### 🎯 We Specialize in CPA Firms
+We don't work with restaurants, e-commerce, or SaaS companies. We work exclusively with CPA firms, accounting practices, and tax professionals. We understand your regulations, your buyer journey, your seasonal patterns, and your competitive landscape.
+
+### 🤖 We're AI-Native
+We didn't pivot from traditional SEO to AI search. We built our methodology for AI search from the ground up. We understand structured data, E-E-A-T signals, platform-specific optimization, and AI citation tracking because that's all we do.
+
+### 📊 We Track What Matters
+We don't report on keyword rankings or domain authority. We track AI citations, AI-referred leads, conversion rates, and business outcomes. We measure what actually drives revenue.
+
+### 🔬 We're Research-Driven
+We don't guess. We test. We monitor AI model updates, track citation patterns, and adapt strategies based on data. We stay current so you don't have to.
+
+### 🏆 We Have Proof
+We can show you specific examples of CPA firms we've helped earn AI citations in ChatGPT, Perplexity, and Google AI Overviews. We can show you the before and after. We can show you the ROI.
+
+### 🤝 We're Transparent
+We don't use black-box methods or proprietary algorithms. We explain what we're doing, why we're doing it, and how we measure success. You'll always know what's happening with your account.
+
+### 📈 We Focus on Outcomes
+We don't sell deliverables (blog posts, backlinks, technical audits). We sell outcomes (AI citations, leads, revenue). If we're not driving business results, we're not doing our job.
+
+### 💡 We're Educators
+We don't just do the work—we teach you what we're doing and why. You'll understand AI search better after working with us. You'll be able to evaluate vendors, understand reports, and make informed decisions.
+
+### 🚀 We Move Fast
+We don't waste time on lengthy onboarding or bureaucratic processes. We audit, strategize, and execute quickly. You'll see progress in weeks, not months.
+
+### 🎓 We're Thought Leaders
+We publish research, speak at conferences, and contribute to the conversation about AI search optimization. We're not just practitioners—we're shaping the industry.
+
+### Who We Work With
+
+We work with CPA firms that:
+- Are serious about growing their practice through AI search
+- Understand that traditional SEO is no longer sufficient
+- Are willing to invest in quality over quantity
+- Want a strategic partner, not just a vendor
+- Value transparency, communication, and results
+
+### Who We Don't Work With
+
+We don't work with firms that:
+- Want "cheap SEO" or are looking for the lowest-cost vendor
+- Expect instant results or guaranteed rankings
+- Aren't willing to invest in quality content and optimization
+- Want to micromanage or don't trust our expertise
+- Are looking for a traditional SEO vendor
+
+### Ready to Talk?
+
+If you're ready to dominate AI search in your market, let's talk. We'll assess your current situation, identify opportunities, and show you exactly how we can help.
+
+**[Schedule a Consultation →](https://www.practicegrowth.tech/consultation?utm_source=github&utm_medium=repository&utm_campaign=seo-aeo-discoverability-rfp)**
+
+No pressure. No sales pitch. Just a conversation about your goals and how we can help you achieve them.
+
+---
+
+## About This Resource
+
+Selecting the right SEO and discoverability partner is one of the most consequential decisions a CPA firm can make. The wrong vendor wastes budget on generic tactics. The right one becomes a long-term growth engine.
+
+This repository provides a **neutral, comprehensive RFP template and evaluation scorecard** designed specifically for accounting firms. It covers:
+
+- Traditional SEO (technical, on-page, local, content)
+- Answer Engine Optimization (AEO) for AI-powered search
+- Review & reputation management
+- Link building & authority development
+
+Use it to solicit proposals, compare vendors objectively, and select a partner who understands the unique requirements of professional services marketing.
 
 ---
 
