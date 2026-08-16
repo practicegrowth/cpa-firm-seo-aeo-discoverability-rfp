@@ -36,6 +36,10 @@ Published: August 2026 | Last Reviewed: August 2026
 - [Vendor Comparison Matrix](#vendor-comparison-matrix)
 - [After You Hire: Onboarding Best Practices](#after-you-hire-onboarding-best-practices)
 - [Real-World Scenarios](#real-world-scenarios)
+- [Common Mistakes CPA Firms Make (Beyond Vendor Selection)](#common-mistakes-cpa-firms-make-beyond-vendor-selection)
+- [Future-Proofing: What to Watch For in 2027 and Beyond](#future-proofing-what-to-watch-for-in-2027-and-beyond)
+- [Quick Diagnostic: Where Does Your Firm Stand?](#quick-diagnostic-where-does-your-firm-stand)
+- [Why PracticeGrowth?](#why-practicegrowth)
 - [Glossary of Terms](#glossary-of-terms)
 - [Related Resources from PracticeGrowth](#related-resources-from-practicegrowth)
 - [Disclaimer](#disclaimer)
@@ -66,6 +70,12 @@ Published: August 2026 | Last Reviewed: August 2026
 - ✅ Added "The Old Way Is Dead" section with expert quotes and research citations
 - ✅ Added 20 authoritative research sources on zero-click search and AI optimization
 - ✅ Added industry leader perspectives from Rand Fishkin, Wil Reynolds, Kevin Indig, Lily Ray, and Ross Simmonds
+- ✅ Added "Common Mistakes CPA Firms Make (Beyond Vendor Selection)" - 8 critical pitfalls
+- ✅ Added "Future-Proofing: What to Watch For in 2027 and Beyond" - 6 emerging trends
+- ✅ Added "Quick Diagnostic: Where Does Your Firm Stand?" - 10-question self-assessment
+- ✅ Added "Why PracticeGrowth?" value proposition and differentiation
+- ✅ Added AEO Platform Guide - platform-specific optimization strategies for 6 major AI platforms
+- ✅ Updated Table of Contents with all new sections
 
 **This repo is actively maintained. Last updated: August 2026**
 
@@ -103,6 +113,9 @@ Together, these resources cover the complete digital infrastructure a modern CPA
 
 **Scenario 4: You're in a hurry and need to move fast**
 → Use the [Quick Start Template](#quick-start-template) (simplified RFP for urgent situations)
+
+**Scenario 5: You want to understand platform-specific optimization**
+→ Read the [AEO Platform Guide](aeo-platform-guide.md) to learn how to optimize for Google AI Overviews, ChatGPT, Perplexity, Claude, and Microsoft Copilot
 
 ---
 
@@ -1160,6 +1173,32 @@ This repository provides a **neutral, comprehensive RFP template and evaluation 
 - Link building & authority development
 
 Use it to solicit proposals, compare vendors objectively, and select a partner who understands the unique requirements of professional services marketing.
+
+---
+
+## What's Included
+
+This repository contains everything you need to evaluate, select, and onboard an SEO/AEO vendor:
+
+### Core Documents
+
+- **[rfp-template.md](rfp-template.md)** - Complete RFP template with 13 sections covering technical requirements, AEO/GEO capabilities, compliance, timeline, budget, and vendor qualifications
+- **[evaluation-scorecard.md](evaluation-scorecard.md)** - Weighted scoring matrix (1-5 scale) with 7 evaluation criteria totaling 100 points
+- **[aeo-readiness-checklist.md](aeo-readiness-checklist.md)** - 10-category technical checklist for evaluating vendor AEO capabilities
+- **[aeo-platform-guide.md](aeo-platform-guide.md)** - **NEW** Platform-specific optimization strategies for Google AI Overviews, Google AI Mode, ChatGPT, Perplexity, Claude, and Microsoft Copilot
+- **[local-seo-scorecard.md](local-seo-scorecard.md)** - 7-category evaluation framework for local SEO capabilities (100 points)
+- **[rfp-process-guide.md](rfp-process-guide.md)** - Step-by-step guide for running the vendor selection process
+- **[presentation-interview-questions.md](presentation-interview-questions.md)** - 20 interview questions organized by category with red flags to watch for
+- **[contract-checklist.md](contract-checklist.md)** - 12-section contract review checklist covering scope, pricing, IP, compliance, and more
+
+### Supporting Materials
+
+- **Real-world scenarios** - 3 detailed case studies showing vendor selection outcomes
+- **Quick wins guide** - 8 immediate actions you can take today
+- **Budget planning** - Investment ranges by firm size ($41K-$340K annually)
+- **Timeline expectations** - Month-by-month ROI projections
+- **Glossary of terms** - Definitions for AEO, GEO, E-E-A-T, and other key concepts
+- **Vendor comparison matrix** - Side-by-side evaluation template
 
 ---
 
