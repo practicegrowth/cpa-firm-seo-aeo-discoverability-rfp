@@ -451,6 +451,243 @@ Use this template to compare vendors side-by-side:
 
 ---
 
+## Who This Is NOT For
+
+Let's be clear about who should **not** use this resource:
+
+### ❌ If You're Looking for "Cheap SEO"
+If your primary goal is to find the lowest-cost vendor, this repo won't help you. Quality AI search optimization requires investment. Firms spending $2,000/month or less are getting template work, not strategic optimization. You'll waste money and time.
+
+### ❌ If You Want Guaranteed Rankings
+If you're looking for a vendor who promises "#1 rankings in 30 days," look elsewhere. We don't work with vendors who make guarantees they can't keep. AI search optimization is about building authority, not gaming algorithms.
+
+### ❌ If You're Not Ready to Invest in Content
+AI search optimization requires consistent, high-quality content production. If you're not willing to invest in 4-8 pieces of content per month (minimum), you won't see results. This isn't a "set it and forget it" service.
+
+### ❌ If You Don't Have CPA Expertise to Share
+The best AI citations come from firms with genuine expertise. If you don't have CPAs willing to contribute author bios, review content, or provide insights, you'll struggle to compete. AI models cite authorities, not generic content mills.
+
+### ❌ If You're Expecting Instant Results
+AI search optimization takes 6-12 months to show significant results. If you need leads tomorrow, this isn't the right approach. You need paid advertising, not organic optimization.
+
+### ❌ If You're Not Willing to Change
+If you're attached to "the way we've always done SEO" and aren't open to new methodologies, you'll fail. The landscape has changed. Vendors who can't adapt will drag you down with them.
+
+**If any of these describe you, this resource isn't a fit. And that's okay.**
+
+---
+
+## Common Objections & Responses
+
+### "We already have an SEO vendor"
+**Response:** Great. Ask them these three questions:
+1. "How are we appearing in ChatGPT and Google AI Overviews?"
+2. "Can you show me specific AI citations you've earned for us?"
+3. "What's your strategy for the July 2026 ChatGPT-Yelp integration?"
+
+If they can't answer these with specific examples, you don't have an AI search vendor. You have a traditional SEO vendor who's adding "AI" to their pitch deck.
+
+### "We tried SEO before and it didn't work"
+**Response:** Traditional SEO (keyword stuffing, backlink schemes, generic content) doesn't work anymore. AI search optimization is fundamentally different. It's about building authority, structured data, and platform-specific optimization. Give it a proper try with a vendor who understands 2026, not 2019.
+
+### "We don't have the budget"
+**Response:** What's the cost of not being found? If your competitors are being cited in AI responses and you're not, you're losing clients every day. The question isn't "can we afford this?" It's "can we afford not to?" That said, if you truly can't invest $3,000+/month, focus on paid advertising first, then revisit AI optimization when budget allows.
+
+### "We're too small to matter"
+**Response:** AI models don't care about firm size. They care about expertise, authority, and trust. A 3-person firm with deep specialization and strong E-E-A-T signals can outperform a 50-person firm with generic content. Size doesn't determine AI citation success—expertise does.
+
+### "AI search is just a fad"
+**Response:** 65% of searches are zero-click. ChatGPT has 700M weekly users. Perplexity converts at 11x traditional traffic. This isn't a fad—it's the new reality. Firms who ignore this will become invisible. Firms who adapt will dominate.
+
+### "We'll just wait and see what happens"
+**Response:** Your competitors aren't waiting. Every month you delay, they're building authority and earning citations. AI search optimization compounds over time. The firms who start now will have a 12-24 month head start on those who wait. By the time you decide to act, it will be much harder to catch up.
+
+### "We can do this in-house"
+**Response:** Maybe. But do you have staff who understand structured data, AI citation tracking, platform-specific optimization, and E-E-A-T signals? Do they have experience earning AI citations for CPA firms? If not, you're paying for on-the-job training. A specialized vendor will get you there faster and better.
+
+### "We don't need local SEO"
+**Response:** Even if you serve clients nationally, local SEO matters. Google Business Profile optimization, reviews, and local citations build overall authority. AI models use local signals as trust indicators. Plus, most CPA firms do have local clients. Ignoring local SEO leaves money on the table.
+
+---
+
+## Quick Wins You Can Do Today
+
+While you're evaluating vendors, here are things you can do immediately to improve your AI search visibility:
+
+### 1. Claim and Optimize Your Google Business Profile (30 minutes)
+- Go to [google.com/business](https://google.com/business)
+- Claim your profile if you haven't already
+- Fill out every section: services, hours, description, photos
+- Add your CPA credentials to the description
+- Post weekly updates
+
+### 2. Claim Your Yelp Profile (15 minutes)
+- Go to [yelp.com](https://yelp.com) and claim your business
+- Complete your profile with services, photos, business hours
+- Respond to any existing reviews (positive and negative)
+- This is critical for ChatGPT citations
+
+### 3. Add Author Bios to Your Website (1 hour)
+- Create a dedicated "Team" or "About" page
+- For each CPA, include: name, credentials (CPA, EA, etc.), years of experience, specializations, professional memberships
+- Add a professional photo
+- Link to their LinkedIn profile
+- This builds E-E-A-T signals
+
+### 4. Add Structured Data to Your Homepage (1 hour)
+- Use Google's [Structured Data Markup Helper](https://www.google.com/webmasters/markup-helper)
+- Add Organization schema with your firm's name, address, phone, logo
+- Add LocalBusiness schema if you have a physical office
+- Test with Google's [Rich Results Test](https://search.google.com/test/rich-results)
+
+### 5. Create a "Services" Page with Clear Descriptions (45 minutes)
+- List each service you offer
+- For each service, write 2-3 paragraphs explaining what it is, who it's for, and how you approach it
+- Use clear headings and bullet points
+- This helps AI models understand your expertise
+
+### 6. Ask for Reviews (15 minutes)
+- Email your last 10 happy clients
+- Ask them to leave a review on Google and/or Yelp
+- Provide direct links to make it easy
+- Don't incentivize (that violates FTC guidelines)
+
+### 7. Audit Your Content for AI Extractability (30 minutes)
+- Look at your top 5 blog posts or service pages
+- Do they have clear headings?
+- Do they answer questions directly in the first paragraph?
+- Do they use bullet points and short paragraphs?
+- If not, rewrite them to be more scannable
+
+### 8. Set Up Google Search Console (20 minutes)
+- Go to [search.google.com/search-console](https://search.google.com/search-console)
+- Add your website
+- Verify ownership
+- This gives you data on how Google sees your site
+
+**These 8 steps won't make you an AI search expert, but they'll put you ahead of 80% of CPA firms who haven't done even this much.**
+
+---
+
+## Traditional SEO vs. AEO/GEO: What's the Difference?
+
+If you're confused about why you need a new approach, here's a clear comparison:
+
+| Aspect | Traditional SEO (2019) | AEO/GEO (2026) |
+|--------|------------------------|----------------|
+| **Primary Goal** | Rank #1 on Google | Get cited in AI responses |
+| **Key Metric** | Keyword rankings | AI citation frequency |
+| **Content Strategy** | Keyword-optimized blog posts | Conversational, scannable content |
+| **Technical Focus** | Meta tags, backlinks | Structured data, schema markup |
+| **Success Timeline** | 3-6 months | 6-12 months |
+| **Competition** | Other websites | Other authoritative sources |
+| **User Behavior** | Click through to website | Get answer without clicking |
+| **Platform Focus** | Google search | ChatGPT, Perplexity, Google AI Overviews |
+| **Content Format** | Long-form articles | Concise answers, bullet points, tables |
+| **Authority Signals** | Backlinks, domain authority | E-E-A-T, author credentials, citations |
+| **Local SEO** | Google Maps rankings | GBP + Yelp + AI citations |
+| **Reporting** | Rankings, traffic, backlinks | AI citations, leads, business outcomes |
+
+### Why Traditional SEO Doesn't Work Anymore
+
+**The problem:** Traditional SEO was designed for a world where users clicked through to websites. That world is gone.
+
+**Example:** In 2019, if someone searched "how to deduct home office expenses," they'd click through to a blog post. In 2026, they get the answer directly from Google AI Overviews or ask ChatGPT. They never visit your website.
+
+**The result:** You can have #1 rankings and zero traffic. Rankings don't matter if no one clicks.
+
+### Why AEO/GEO Is the New Game
+
+**The opportunity:** AI models need to cite authoritative sources. If you build authority through structured data, E-E-A-T signals, and platform-specific optimization, you get cited.
+
+**Example:** When someone asks ChatGPT "best CPA for small business in Dallas," ChatGPT doesn't rank websites. It cites firms it recognizes as authorities based on structured data, reviews, content quality, and brand recognition.
+
+**The result:** You don't need to be #1. You need to be cited. And citations compound over time.
+
+### The Bottom Line
+
+Traditional SEO is about **ranking**. AEO/GEO is about **being the answer**.
+
+If your vendor is still talking about rankings, they're playing the wrong game.
+
+---
+
+## Real-World Scenarios
+
+### Scenario 1: The Firm That Was Invisible in AI Search
+
+**Background:** 15-person CPA firm in Chicago, established 20 years ago. Had a traditional SEO vendor for 3 years. Rankings were "good" but leads were declining.
+
+**Problem:** When partners asked ChatGPT "best CPA firm in Chicago for real estate investors," their firm wasn't mentioned. Neither were any of their competitors. ChatGPT was citing generic advice instead of specific firms.
+
+**Solution:** New vendor implemented comprehensive AEO strategy:
+- Structured data for all services and team members
+- Author bios with credentials for every blog post
+- Optimized Google Business Profile and Yelp
+- Created content specifically formatted for AI extractability
+- Built brand recognition through consistent, high-quality content
+
+**Results (12 months):**
+- Firm now cited in 40% of relevant ChatGPT queries
+- 25% increase in leads from "AI-referred" clients
+- 3 new clients specifically mentioned "ChatGPT recommended you"
+- Overall revenue up 18%
+
+**Key Takeaway:** Rankings didn't matter. AI citations did.
+
+---
+
+### Scenario 2: The Small Firm That Beat the Big Guys
+
+**Background:** 4-person CPA firm in Austin, specializing in tech startups. Competing against firms with 50+ professionals and massive marketing budgets.
+
+**Problem:** Couldn't compete on traditional SEO. Big firms had more backlinks, more content, more everything.
+
+**Solution:** Focused entirely on AEO/GEO:
+- Deep specialization in tech startup tax issues
+- Every piece of content had author bios with specific credentials
+- Aggressive review generation on Google and Yelp
+- Structured data implementation across entire site
+- Content formatted for AI extractability (clear headings, concise answers)
+
+**Results (9 months):**
+- Now cited in ChatGPT responses for "tech startup CPA Austin" 60% of the time
+- Outperforming firms 10x their size in AI citations
+- 40% increase in qualified leads
+- Average client value up 35% (attracting higher-value clients)
+
+**Key Takeaway:** Expertise beats size. AI models cite authorities, not big budgets.
+
+---
+
+### Scenario 3: The Firm That Switched Vendors Mid-Engagement
+
+**Background:** 25-person CPA firm in Miami. Had been with an SEO vendor for 18 months. Paying $8,000/month.
+
+**Problem:** Vendor reports showed "improved rankings" but leads were flat. When asked about AI search, vendor said "we're looking into it" but had no specifics.
+
+**Discovery:** Firm used the AEO Readiness Checklist from this repo. Scored the vendor:
+- Structured data implementation: 2/10
+- AI citation tracking: 0/10
+- Platform-specific strategy: 1/10
+- E-E-A-T optimization: 3/10
+
+**Action:** Switched to a vendor who understood 2026. New vendor:
+- Implemented comprehensive structured data in first 30 days
+- Created AI-extractable content with proper author attribution
+- Optimized for ChatGPT, Perplexity, and Google AI Overviews
+- Provided monthly AI citation reports with specific examples
+
+**Results (6 months after switch):**
+- 35 AI citations in first 6 months (vs. 0 in previous 18 months)
+- 22% increase in qualified leads
+- Vendor now provides specific examples of AI citations in every report
+- Firm partners can see their firm being cited when they ask ChatGPT
+
+**Key Takeaway:** If your vendor can't show you AI citations, they're not optimizing for AI search.
+
+---
+
 ## About This Resource
 
 Selecting the right SEO and discoverability partner is one of the most consequential decisions a CPA firm can make. The wrong vendor wastes budget on generic tactics. The right one becomes a long-term growth engine.
